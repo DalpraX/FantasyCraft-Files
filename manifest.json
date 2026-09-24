@@ -2259,7 +2259,7 @@
         },
         {
             "path": "fancymenu_data/buddy/buddy_save.json",
-            "hash": "a92da67e728b882882974d0bc526367ec121c1c19ab09948734bb4b832ec008f",
+            "hash": "38e520f3f016a0bef896fc14ab87af50dcd95a7dd395360d03162ff4a9e37a92",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/fancymenu_data/buddy/buddy_save.json",
             "sync_mode": "always"
         },
@@ -2567,6 +2567,12 @@
             "path": "mods/dummmmmmy-1.20-2.0.12-forge.jar",
             "hash": "bd7f168ec56f14a25d36d9d0dc4d281e88f77b1ba678907b5c570e5c051a5ca4",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/dummmmmmy-1.20-2.0.12-forge.jar",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/Dungeon Crawl-1.20.1-2.3.15.jar",
+            "hash": "71e1b8ceaf20c3102ae42ef2761ca47f30fe4cbd20ecbb687df2ce75d1785514",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/Dungeon Crawl-1.20.1-2.3.15.jar",
             "sync_mode": "always"
         },
         {
