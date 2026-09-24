@@ -495,7 +495,7 @@
         },
         {
             "path": "config/oculus.properties",
-            "hash": "68a146b9378c062a61b6b812f4a168d6a734c601ebcfd9c9799dec5d700e7951",
+            "hash": "4aa8ec3e41185209115af589605b9cf7b4250c0bf5a0bb8a2ec169745e532532",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/oculus.properties",
             "sync_mode": "always"
         },
@@ -1449,7 +1449,7 @@
         },
         {
             "path": "config/euphoria_patcher/data.json",
-            "hash": "b0cccb78f4a2dcfe996c4b43e2af39053f53b895c9fba333acc8b57b88e71070",
+            "hash": "1aaac695f23e3e58167d8f5f433a553cbcb6520cd2e31ff36d54364c29798bf3",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/euphoria_patcher/data.json",
             "sync_mode": "always"
         },
@@ -3285,13 +3285,13 @@
         },
         {
             "path": "mods/mcef-cache/LOG",
-            "hash": "23bc1d9105d090b11a640d9a5bcdcff1a5dc622c51b045955e4b8046da6b0a37",
+            "hash": "147b3ee0526b30944392950f28e6f06baa219a1927ce8d6377e430c5c03b5610",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/LOG",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/LOG.old",
-            "hash": "64b54e0949eeb3cab2993e773f9281900c8dbae873e724b3a920dbc718132f4b",
+            "hash": "23bc1d9105d090b11a640d9a5bcdcff1a5dc622c51b045955e4b8046da6b0a37",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/LOG.old",
             "sync_mode": "always"
         },
@@ -3309,13 +3309,13 @@
         },
         {
             "path": "mods/mcef-cache/Cache/Cache_Data/data_0",
-            "hash": "67ddad63116ad93c69ff73809195ad0aa5f34f2442a72e601d90fdf7b3463394",
+            "hash": "61860d9cee01ba7147016d6c4a5b76d94ea7a317e577170feb90f36432b5382d",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Cache/Cache_Data/data_0",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/Cache/Cache_Data/data_1",
-            "hash": "f85b1a8718eabf8d362b5f21f1f0ce25197780f551b205eb2a8783740ff9f7ae",
+            "hash": "4040bccd7b90e7315d355e179fddc13258223d8dbd8a8c523158a329c9151f7b",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Cache/Cache_Data/data_1",
             "sync_mode": "always"
         },
@@ -3327,7 +3327,7 @@
         },
         {
             "path": "mods/mcef-cache/Cache/Cache_Data/data_3",
-            "hash": "63e6b8d223cbf9fc23508088e588c737d53c2bb1cdd7d76c7dea2fd3b99ed074",
+            "hash": "914a28b21bb28dcbca053ab56a48e30278eb8083aa69984d9661a3b9dfa05f41",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Cache/Cache_Data/data_3",
             "sync_mode": "always"
         },
@@ -4712,8 +4712,56 @@
             "sync_mode": "always"
         },
         {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000e7",
+            "hash": "4bdefe9ffe1b8ca6931dd45477ef91f9ed59b7152a4ae1653c7967207508655d",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Cache/Cache_Data/f_0000e7",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000e8",
+            "hash": "42d65d98abdd498b4ab6e513047c63e869a9bf0c54f1c0295b9591d202fa64b7",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Cache/Cache_Data/f_0000e8",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000e9",
+            "hash": "9192ead866cdb1e7fcd9c4050ad9d1b7ea85273d7b82f8eaad41db7ae0e25621",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Cache/Cache_Data/f_0000e9",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000ea",
+            "hash": "cf8f31a4cd6836d7ee09920ab9d37674df250f8d40ad209a974b52e55003f981",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Cache/Cache_Data/f_0000ea",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000eb",
+            "hash": "bce24823936bfa0f952f660be1b849b9c6eeda690272c5ff4f6a5510591d38b4",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Cache/Cache_Data/f_0000eb",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000ec",
+            "hash": "7211f0a817863622aa5c2095e4a11766ff6a319b94ce8e7fd1335445350cffae",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Cache/Cache_Data/f_0000ec",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000ed",
+            "hash": "02887a04cac820995a3851f5a4cad99ee17b234a19e9c087d5ef2e7cff2739ea",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Cache/Cache_Data/f_0000ed",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000ee",
+            "hash": "0a9f0f94a059363639d487be33ec56d2eb505f9ca6ffaa45e1fe2dfc40667dc8",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Cache/Cache_Data/f_0000ee",
+            "sync_mode": "always"
+        },
+        {
             "path": "mods/mcef-cache/Cache/Cache_Data/index",
-            "hash": "ca81e1d3c6054425d89d714a6a0c304248e362d264709600f3e1fa308141603d",
+            "hash": "ee16d1d5a05de138cc7075cf4320313b8b9e7f622e3d2e897d232de342ea51c2",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Cache/Cache_Data/index",
             "sync_mode": "always"
         },
@@ -4725,7 +4773,7 @@
         },
         {
             "path": "mods/mcef-cache/Code Cache/js/index-dir/the-real-index",
-            "hash": "875b24dd62d2ff3edb294529df419c4d58682a8766246b27748055712b82b836",
+            "hash": "4630655912f8e69f18d1306139eca37bf91481303b718d87fd2ebb6835f62b67",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Code Cache/js/index-dir/the-real-index",
             "sync_mode": "always"
         },
@@ -4737,7 +4785,7 @@
         },
         {
             "path": "mods/mcef-cache/Code Cache/wasm/index-dir/the-real-index",
-            "hash": "d2bdaf197e3870976e7892768954e17b1a3c3047f183160443dcfca813644396",
+            "hash": "814dcf8d3983860e092869b8344338119413b0273d0bf6ac6f1f80d4ea9daca2",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Code Cache/wasm/index-dir/the-real-index",
             "sync_mode": "always"
         },
@@ -4767,7 +4815,7 @@
         },
         {
             "path": "mods/mcef-cache/DawnCache/index",
-            "hash": "ccd039fd93223d1d4d7ada6d12f45f3f3d0dafab8b8db5a35c8a841e20441c7f",
+            "hash": "040804792c00dc4774f3757483a4afe0491f389b8f36dc1feadff1cb9aa460dd",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/DawnCache/index",
             "sync_mode": "always"
         },
@@ -4797,7 +4845,7 @@
         },
         {
             "path": "mods/mcef-cache/GPUCache/index",
-            "hash": "f0b0d9d62c961afac41fe8dd8599a2b00b88929e6bacce1bace2eecf3ee70ed9",
+            "hash": "13ed2287654df14a219ee005fe864b8efb254b35a1af3754c8b2ca4b5fb6bd06",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/GPUCache/index",
             "sync_mode": "always"
         },
@@ -4821,13 +4869,13 @@
         },
         {
             "path": "mods/mcef-cache/Local Storage/leveldb/LOG",
-            "hash": "9efc1516390a2159b8dc994c79b4e43fdaa8260318ca250077dbe4e7bb3624ed",
+            "hash": "7dd454cbd3f3d446e165fca8cd8f36e0969095072b960b7f19e16e3dcdeb702c",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Local Storage/leveldb/LOG",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/Local Storage/leveldb/LOG.old",
-            "hash": "fd97c76cb7de6a08bd394ecc5c77b0fc2d50e61b9c317a8268d79ef592ebf9d8",
+            "hash": "9efc1516390a2159b8dc994c79b4e43fdaa8260318ca250077dbe4e7bb3624ed",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/Local Storage/leveldb/LOG.old",
             "sync_mode": "always"
         },
@@ -5385,7 +5433,7 @@
         },
         {
             "path": "shaderpacks/_0EUPHORIA_PATCHES_ERROR_LOGS.txt",
-            "hash": "f3af852ef0beef9378863bae6d9d5b275f5629c2bfead8ca49d801451cc01aa2",
+            "hash": "e00169335316ae1981c4506065f16587815faeff437e30a1f4dd8cda2ccc73be",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/shaderpacks/_0EUPHORIA_PATCHES_ERROR_LOGS.txt",
             "sync_mode": "always"
         },
