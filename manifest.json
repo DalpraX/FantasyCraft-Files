@@ -3,7 +3,7 @@
     "files": [
         {
             "path": "options.txt",
-            "hash": "2f7a1f606c1c23e903a856b6f4844e90e4ad92f55656a587b792efea8c6a12de",
+            "hash": "c4e39e7be05a6b2587f6d96881817c13d817303e7bab727e8e10b4bfe63cbc96",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/options.txt",
             "sync_mode": "once"
         },
@@ -45,7 +45,7 @@
         },
         {
             "path": "config/attributeslib.cfg",
-            "hash": "fe85b449a9f8e1b5b74799822840aedfb5e2b8e269cbb1503f6d4c12a7a47fe7",
+            "hash": "d263933ee4b13ea18ca743e8648d0cf2bc0f69a7d8c3f0e55829d9597d8c0c62",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/attributeslib.cfg",
             "sync_mode": "always"
         },
@@ -159,13 +159,13 @@
         },
         {
             "path": "config/create-client.toml",
-            "hash": "7c40bc004ba478b13d0c99c2b644e50cf3a1d2d60d9b40df15822da8d8ad710c",
+            "hash": "5b9ee8bee23d0f12b926567309802eed6f1f46a195726b2b034d692deb833b65",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/create-client.toml",
             "sync_mode": "always"
         },
         {
             "path": "config/create-common.toml",
-            "hash": "36a4d9f5da68f6801b83ce0c4a1a8805fbeffb0dd997f2d405465d7774522296",
+            "hash": "6c0f6254798808bce8079a1cfafe4d6c082cead42c51d1e3121f3580f8a44eca",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/create-common.toml",
             "sync_mode": "always"
         },
@@ -195,7 +195,7 @@
         },
         {
             "path": "config/DistantHorizons.toml",
-            "hash": "ee978cb9e0874896bdb2e8bf5771e0fbe7453b3a0593636a631a69b02ea1500f",
+            "hash": "f981481d7525c2d7f032a536d6894cff7b289a0c7486c1b0a996fe316dbe9df8",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/DistantHorizons.toml",
             "sync_mode": "always"
         },
@@ -209,6 +209,12 @@
             "path": "config/dummmmmmy-common.toml",
             "hash": "951f25df08b8ba7c1f353d225f503ee103fff7df85eb8570dd68e877b217587a",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/dummmmmmy-common.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "config/dungeon_crawl.toml",
+            "hash": "ff56eb5193313c4e0acabe78b8179e14144391fced80f43aef8890b7b181c0f5",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/dungeon_crawl.toml",
             "sync_mode": "always"
         },
         {
@@ -231,7 +237,7 @@
         },
         {
             "path": "config/embeddium-fingerprint.json",
-            "hash": "9e1c8bfe061e4816edfc5767868eb97ffa1301798b64f57e02837f2f38e059af",
+            "hash": "1a592d08bd9da50fc4173d19568587c66311342229149f8b866c797b30a7b26d",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/embeddium-fingerprint.json",
             "sync_mode": "always"
         },
@@ -243,7 +249,7 @@
         },
         {
             "path": "config/embeddium-options.json",
-            "hash": "30e6bb5b517236fce992caf22714e9bbfc45c231097f0a560ec97c5c5ce8b417",
+            "hash": "2d6b0cc746a7524c55237472e3186f85357104c5c3a19a10defb66f6112bf778",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/embeddium-options.json",
             "sync_mode": "always"
         },
@@ -303,7 +309,7 @@
         },
         {
             "path": "config/fastbench.cfg",
-            "hash": "240a14e19d211945629e719c0df4ff6b537d26fcf58b514b7f7c731b3ad69183",
+            "hash": "8133f67a8d39f7a9cc0737636ffde75326b602201354de5dd3bd716491713219",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/fastbench.cfg",
             "sync_mode": "always"
         },
@@ -315,7 +321,7 @@
         },
         {
             "path": "config/fastsuite.cfg",
-            "hash": "44198ad591572d87a9f71b0b636229d91508a8c971f9dca907bed3c6d6754193",
+            "hash": "4d26b4c93838e3e912a8e09f9be0395cd0b7a264f250ea8aa72d68507ce12250",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/fastsuite.cfg",
             "sync_mode": "always"
         },
@@ -327,7 +333,7 @@
         },
         {
             "path": "config/flywheel-client.toml",
-            "hash": "a1f5418ea2735fe080ad97efa9718712496e309bf0e7e859c47b1dd56e751149",
+            "hash": "9dbbbbf8a27341be108f0fa8b557caa1d18a7c7bdc6584ba623bb8358cbfd407",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/flywheel-client.toml",
             "sync_mode": "always"
         },
@@ -345,7 +351,7 @@
         },
         {
             "path": "config/ftbxmodcompat.snbt",
-            "hash": "9abe2c7f784810cac3ca71c74d02aacd5fe6861d744cb143d077a525a2b42e76",
+            "hash": "774631c740366a8dfef9c646d5f60a9939299f3627180ab9ac4d540c76af4081",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/ftbxmodcompat.snbt",
             "sync_mode": "always"
         },
@@ -393,7 +399,7 @@
         },
         {
             "path": "config/jeresources.toml",
-            "hash": "9dbe8c6973dc932be6dd20cb63381276740b23c75349dbe870fc8098c8529989",
+            "hash": "13a4d5e1d1ac4207cbebef810696525975ec4f0c2470f6b858cbd9f62a6cd3ec",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/jeresources.toml",
             "sync_mode": "always"
         },
@@ -465,13 +471,13 @@
         },
         {
             "path": "config/naturescompass-client.toml",
-            "hash": "4215398614d28a24d2fe39593bf25981dd67ae46f85bc710ee07ba2d37c74c0b",
+            "hash": "12e21e8f6b4f99c727bf907935dbc7140cfd8e332f494e067f1c5fb7077b98d2",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/naturescompass-client.toml",
             "sync_mode": "always"
         },
         {
             "path": "config/naturescompass-common.toml",
-            "hash": "538aae74ea0b2f15762899e6ee36bb9df856c2a60ca6266b74d0b2008394fc2b",
+            "hash": "d47de20a87c4c89bfe1caee87a1d81bcadac60142b934bd4af1c5715aba4c0b6",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/naturescompass-common.toml",
             "sync_mode": "always"
         },
@@ -489,7 +495,7 @@
         },
         {
             "path": "config/oculus.properties",
-            "hash": "a9b08350016b035abcc423b2bd4fedd49205e4747c531c95e0e60cc291f187cd",
+            "hash": "68a146b9378c062a61b6b812f4a168d6a734c601ebcfd9c9799dec5d700e7951",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/oculus.properties",
             "sync_mode": "always"
         },
@@ -537,7 +543,7 @@
         },
         {
             "path": "config/ponder-client.toml",
-            "hash": "56291af4bc3506692c79f5c0155c47cce8577d0aae6ed5930c9074d5cb9bc5c8",
+            "hash": "7508f3f5ceed80c7c606d01ee2dc93e2c72a8afa199ccb691fc5225c894d5bbd",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/ponder-client.toml",
             "sync_mode": "always"
         },
@@ -645,13 +651,13 @@
         },
         {
             "path": "config/terramity-client-config.toml",
-            "hash": "11129df13229ef31931c149cd56cba5bd57be291ff46f15fe857834c32c371cd",
+            "hash": "ad5af1eaf16b29252f8733de6fa41d5546062571b269b59cfcaeea5754633810",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/terramity-client-config.toml",
             "sync_mode": "always"
         },
         {
             "path": "config/TerramityCommonConfig.toml",
-            "hash": "b5e1821c83e6ce1cc44065be24da48e97327552548e9a0ce7ae75bcb0d9ff586",
+            "hash": "32e5e800d23bfc0a5a1cedb4b01d634904bbc20ba153217802bd3f7a7f1a5670",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/TerramityCommonConfig.toml",
             "sync_mode": "always"
         },
@@ -1233,55 +1239,55 @@
         },
         {
             "path": "config/apotheosis/adventure.cfg",
-            "hash": "279e747ad9cb09255f3178d44661dc44f9f38e77a6c5ca7252adcbee923c1a8d",
+            "hash": "56840e4c6a265049bce2846b6c11d0267a6fafa1b72a75b9d7b9a94dc55c5022",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/apotheosis/adventure.cfg",
             "sync_mode": "always"
         },
         {
             "path": "config/apotheosis/apotheosis.cfg",
-            "hash": "9665f22f77597b42cf5adc02e351253525fd76dd45b885f258dafbb038a24e26",
+            "hash": "7b78aadde067ed6ac31b87a0a28702c8d782a0dbc45a55fd7ab678772de3d15e",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/apotheosis/apotheosis.cfg",
             "sync_mode": "always"
         },
         {
             "path": "config/apotheosis/ench.cfg",
-            "hash": "6fbf05e2719f095908f8196a694f6a8f36bc39c7d5e71644b0ea55e025c8b80f",
+            "hash": "557cc1b6ba1369f5d2459054cc2b9e9f91c58b9cdecb0a3023a911b435b1a9c8",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/apotheosis/ench.cfg",
             "sync_mode": "always"
         },
         {
             "path": "config/apotheosis/enchantments.cfg",
-            "hash": "950f6785a279a870724e94680146650ec90b334c2e65ba8e0f633b487e44799e",
+            "hash": "1fbd24fd307fae094c44654c4c2f44ddd80ef5aa731f870178104d7532d34595",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/apotheosis/enchantments.cfg",
             "sync_mode": "always"
         },
         {
             "path": "config/apotheosis/garden.cfg",
-            "hash": "8dea2945143e4e9e5bb0c6460296ad42a45ad95518d75a9ae36e2645c1f1e2be",
+            "hash": "dea4d260e6eac868297c0f9cd80545fd6b54f7344c678b89edda980a3fc5e8cf",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/apotheosis/garden.cfg",
             "sync_mode": "always"
         },
         {
             "path": "config/apotheosis/names.cfg",
-            "hash": "60b3fd23afe4ae4afd5ccd94d68bc96dc2a13df7ed985baad582516a8e9d2692",
+            "hash": "0c60e522b7d6f1b33cdce645bcd78a4c4b56f73996ddf38105444557d633765e",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/apotheosis/names.cfg",
             "sync_mode": "always"
         },
         {
             "path": "config/apotheosis/potion.cfg",
-            "hash": "eb5ccfa9af9f8723d9012193f4fd623373038dc323b30262f6d9ab3e2286853c",
+            "hash": "41cbb8ec035cdefaf47ca7ca71187b41eb8ce67905f825cc05e3c8dd8ba2702e",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/apotheosis/potion.cfg",
             "sync_mode": "always"
         },
         {
             "path": "config/apotheosis/spawner.cfg",
-            "hash": "34b0d9e7634790b237c4bde3119028da00081b1090c5fcc0570d12936e0f0d8e",
+            "hash": "40913dd340992cb232ed886157673decf3a02a0faa28bb05caf55906da4f7f79",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/apotheosis/spawner.cfg",
             "sync_mode": "always"
         },
         {
             "path": "config/apotheosis/village.cfg",
-            "hash": "e107b59d9f2fc528d7f0f705fc96db903ca897af2151e91a1eb5e8ab2c338996",
+            "hash": "9c06164bad9a22d779a4986dc231071e7a9d3bc8f1d7d67fa277999e510d2a78",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/apotheosis/village.cfg",
             "sync_mode": "always"
         },
@@ -1443,7 +1449,7 @@
         },
         {
             "path": "config/euphoria_patcher/data.json",
-            "hash": "cda9b07ea98450804e2c3fa94cafb3e2cf1c19ceb3d89043f3f0ca7773a9f374",
+            "hash": "b0cccb78f4a2dcfe996c4b43e2af39053f53b895c9fba333acc8b57b88e71070",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/euphoria_patcher/data.json",
             "sync_mode": "always"
         },
@@ -1515,7 +1521,7 @@
         },
         {
             "path": "config/fancymenu/customization/title_screen_layout.txt",
-            "hash": "ce614f10cc23e7c984629d00b670e961d84ace85f205dff3b85a05bd20c69457",
+            "hash": "4dec587c45612c1bd9f1c01eed8805575aca5c3ce3eee4b1427bf8e126e2d4ba",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/fancymenu/customization/title_screen_layout.txt",
             "sync_mode": "always"
         },
@@ -1911,13 +1917,13 @@
         },
         {
             "path": "config/jei/ingredient-list-mod-sort-order.ini",
-            "hash": "c34e66c2aa65a8e929c1887354207fc951ba4d76ab6192ce63a6d1ce3df56bd9",
+            "hash": "1caeeecd141cf3391307afb30c327a4530a73b5fbd7036909f31601831a85817",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/jei/ingredient-list-mod-sort-order.ini",
             "sync_mode": "always"
         },
         {
             "path": "config/jei/ingredient-list-type-sort-order.ini",
-            "hash": "39b5426fb7faf645a83c210d457352b05f64859d4b9adb58242c113c2c8e6878",
+            "hash": "ca6f0515891afed86c30c9d3d8ad1496a7d03de9ea532ab431f2ec1d3968826b",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/jei/ingredient-list-type-sort-order.ini",
             "sync_mode": "always"
         },
@@ -1947,13 +1953,13 @@
         },
         {
             "path": "config/jei/recipe-category-sort-order.ini",
-            "hash": "6ba4a3b5f5366b75d978065a36fee910ed959e227e883412466b430d9a10de23",
+            "hash": "418e519537905e1150aaafe031eba9613ab6ad1d53f08cc0e719e5a139a41a1c",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/jei/recipe-category-sort-order.ini",
             "sync_mode": "always"
         },
         {
             "path": "config/jei/world/local/New_World/bookmarks.ini",
-            "hash": "9acf4841e23b7d53d788dbb0a32f4260735a305c73b229447541277e1fa84ad0",
+            "hash": "53517dbc411fc2fcb37b0c03fe99b017531ee436c6544a561a480413e405f57b",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/jei/world/local/New_World/bookmarks.ini",
             "sync_mode": "always"
         },
@@ -1989,7 +1995,7 @@
         },
         {
             "path": "config/mcef/mcef.properties",
-            "hash": "73b87422485184035d7da830140c86cde30aeee94616b451e0481ed853f62726",
+            "hash": "53ed7181f2a8fcf61b0531376401fbd42484e1f870be8270836a9a40e3a244cc",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/config/mcef/mcef.properties",
             "sync_mode": "always"
         },
@@ -2247,7 +2253,7 @@
         },
         {
             "path": "fancymenu_data/last_world.fmdata",
-            "hash": "1236db66a530e6ee0c619542828c1acedda385d216ddf0ed444ca3cbfe4ad90d",
+            "hash": "68b7f3ed3703afaae84ded71505da9dea54b60d59a5f6e68ce6e677e05b64ea6",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/fancymenu_data/last_world.fmdata",
             "sync_mode": "always"
         },
@@ -2259,7 +2265,7 @@
         },
         {
             "path": "fancymenu_data/buddy/buddy_save.json",
-            "hash": "38e520f3f016a0bef896fc14ab87af50dcd95a7dd395360d03162ff4a9e37a92",
+            "hash": "e1291bbc60c0aed6b21e74f14412b08c77b938504d66860b41c29eee8cc23b71",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/fancymenu_data/buddy/buddy_save.json",
             "sync_mode": "always"
         },
@@ -5003,6 +5009,360 @@
             "path": "mods/mcef-cache/VideoDecodeStats/LOG.old",
             "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
             "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/mods/mcef-cache/VideoDecodeStats/LOG.old",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/icon.png",
+            "hash": "d133396fd7a020d3615d92af237835699231459d4c42347a0e5dea37eb343d99",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/icon.png",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/kubejs_persistent_data.nbt",
+            "hash": "0c5f40fb642781709ce4bd9b2443628b345a2abc34cff20dea6564ca014875f9",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/kubejs_persistent_data.nbt",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/level.dat",
+            "hash": "e021db47f5439b3c02034196f1e144f1fbb8f1aa9c28a15986ab3679b62c998f",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/level.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/level.dat_old",
+            "hash": "4807acc29063835d07fb18ea62abce70ac2dc16765a074a3ea43d0822f962ea2",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/level.dat_old",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/mfix_stronghold_cache_v2.nbt",
+            "hash": "1aab02f1680dc2d331d6271f29c2d5194a0b7baadbf27b72dff0743070189aad",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/mfix_stronghold_cache_v2.nbt",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/session.lock",
+            "hash": "51643361c79ecaef25a8de802de24f570ba25d9c2df1d22d94fade11b4f466cc",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/session.lock",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/xaeromap.txt",
+            "hash": "ed36c91fa71d472053f1b24c201a421fc2c0c4805b0237c4924a983376b36b2d",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/xaeromap.txt",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/advancements/11c300f7-b6f8-3901-9063-8f7f9a38532b.json",
+            "hash": "3f7a481831bcc77d41d60cca8b082b62b583adf127c0d2cc24f9835cccce108f",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/advancements/11c300f7-b6f8-3901-9063-8f7f9a38532b.json",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/data/alexsmobs_world_data.dat",
+            "hash": "69272f92346424de1d5953c1ecee2cdc4e25c27471ada8093d2eb12156c3289b",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/data/alexsmobs_world_data.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/data/capabilities.dat",
+            "hash": "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/data/capabilities.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/data/citadel_world_data.dat",
+            "hash": "7606d4db47a8a32b8531c3fc05e5abb99bc8dd6013b906a1c48e25e04b0de627",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/data/citadel_world_data.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/data/dataanchor_saved_tracked_data.dat",
+            "hash": "8bff3d00c19503f1dde7d1b4ff03de3d5f7249e689e00d9eb996ffd57c91d19e",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/data/dataanchor_saved_tracked_data.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/data/DistantHorizons.sqlite",
+            "hash": "429e2acdd6a55655cba819e28b2c2134e473146d650f5f0b726df5d545f68d67",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/data/DistantHorizons.sqlite",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/data/InControlData.dat",
+            "hash": "2372aad12e0eb9492f8a05d180d92010b28c436a68ef38ec899f4b7238595cb5",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/data/InControlData.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/data/neruina.dat",
+            "hash": "654fd6542990f3b55139e6eb29f2663c83537c76412123e6748e94b67faf8920",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/data/neruina.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/data/raids.dat",
+            "hash": "06065d864841f09fb30048b609ec3706d4f16b8428800c5135b7f396f9099ee4",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/data/raids.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/data/random_sequences.dat",
+            "hash": "d54040157da1e16f83c0b362d7e432d59533fdcd8194fca9f35f16ab70d96031",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/data/random_sequences.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/data/scoreboard.dat",
+            "hash": "981f7cfdb39be8ec4aceb99a8a65f7894109b99c5e17c9ff4fc4b7effad7b501",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/data/scoreboard.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/data/sophisticatedbackpacks.dat",
+            "hash": "11adf0487dfb56a35dccf1c13d036b4e5111d514cfd3b49c92853ea092c0179c",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/data/sophisticatedbackpacks.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/data/waystones.dat",
+            "hash": "866437b9851b529e9f97d7cf25dd2c9c1b1a8743f8b260588c3f9c0221404b78",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/data/waystones.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/DIM-1/data/capabilities.dat",
+            "hash": "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/DIM-1/data/capabilities.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/DIM-1/data/DistantHorizons.sqlite",
+            "hash": "bc856e14b1c7aaa48178ab3f9297b7b2073065e1d249fb6da3ebad1c95037440",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/DIM-1/data/DistantHorizons.sqlite",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/DIM-1/data/raids.dat",
+            "hash": "06065d864841f09fb30048b609ec3706d4f16b8428800c5135b7f396f9099ee4",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/DIM-1/data/raids.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/DIM1/data/capabilities.dat",
+            "hash": "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/DIM1/data/capabilities.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/DIM1/data/DistantHorizons.sqlite",
+            "hash": "c10c6022b74922f869be2fd832a575f8fb411fdf89ac099f0de685dbe1fb7024",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/DIM1/data/DistantHorizons.sqlite",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/DIM1/data/raids_end.dat",
+            "hash": "06065d864841f09fb30048b609ec3706d4f16b8428800c5135b7f396f9099ee4",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/DIM1/data/raids_end.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/dimensions/mofus_better_end_/broken_constellation/data/capabilities.dat",
+            "hash": "9dad459b3f201df11aafab8f80ff8b27efcbd7332062fdccb74a9dc734c16b92",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/dimensions/mofus_better_end_/broken_constellation/data/capabilities.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/dimensions/mofus_better_end_/broken_constellation/data/DistantHorizons.sqlite",
+            "hash": "bc856e14b1c7aaa48178ab3f9297b7b2073065e1d249fb6da3ebad1c95037440",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/dimensions/mofus_better_end_/broken_constellation/data/DistantHorizons.sqlite",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/dimensions/mofus_better_end_/broken_constellation/data/raids.dat",
+            "hash": "06065d864841f09fb30048b609ec3706d4f16b8428800c5135b7f396f9099ee4",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/dimensions/mofus_better_end_/broken_constellation/data/raids.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/entities/r.-1.-1.mca",
+            "hash": "7e121f732fb34ea25285faa7fb4dc120181fcf55c1bf213e686449842eb455c6",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/entities/r.-1.-1.mca",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/entities/r.-1.0.mca",
+            "hash": "a57ad4b94439f47367d9a19d2209f2fb2e16bd3210ec8e003fa90146d240f9e2",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/entities/r.-1.0.mca",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/entities/r.0.-1.mca",
+            "hash": "a589c5f553383c1125b350feb7cec659717372bd3a9ee4996dfeac3905a11e59",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/entities/r.0.-1.mca",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/entities/r.0.0.mca",
+            "hash": "5f5a5f42bbd344baf1d85b982a0eeb4a7e08974a0860842be30010df5591ab20",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/entities/r.0.0.mca",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/playerdata/11c300f7-b6f8-3901-9063-8f7f9a38532b.cosarmor",
+            "hash": "c804a6eb6d99fd25b8d08320cfaffd9dc6c11d81cb5704ee0b91c1cd7ca947d1",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/playerdata/11c300f7-b6f8-3901-9063-8f7f9a38532b.cosarmor",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/playerdata/11c300f7-b6f8-3901-9063-8f7f9a38532b.dat",
+            "hash": "94d2bb9992a7811fbf63ba77b5264ad9b4ece01f073eeb25ce12d5a14dc17ceb",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/playerdata/11c300f7-b6f8-3901-9063-8f7f9a38532b.dat",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/playerdata/11c300f7-b6f8-3901-9063-8f7f9a38532b.dat_old",
+            "hash": "a585243592b3cfa8949a7dad2a22282c427bcc3299432bf1bbc8450b87e5fbc5",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/playerdata/11c300f7-b6f8-3901-9063-8f7f9a38532b.dat_old",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/poi/r.-1.-1.mca",
+            "hash": "97b01ea152f1675a4b6b0aa5327377f9722e7a97c9e11302cff19d5a1e92dfa1",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/poi/r.-1.-1.mca",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/poi/r.-1.0.mca",
+            "hash": "cb458e2260c6c609e9351e99628c2a355f1dd1b6197268b13ce2635981137a7f",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/poi/r.-1.0.mca",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/poi/r.0.-1.mca",
+            "hash": "bf7576496b2baf1f7163224f6c7c1027845ea1a4f1a8beac923ae04d62bfc7f5",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/poi/r.0.-1.mca",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/poi/r.0.0.mca",
+            "hash": "9bf1ad0243dba2410b9490a6a36b71882c545e02be8dc55d27bc34eb134abdeb",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/poi/r.0.0.mca",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.-1.-1.mca",
+            "hash": "da0f6cdb63dfe4d985fc014a231e1a4458f1f4337865ad796ed7b0a2d908a87b",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/region/r.-1.-1.mca",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.-1.0.mca",
+            "hash": "4711461851e17c5b993cb919bb5f643f591f1328ec2694c7f704f15011ab177b",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/region/r.-1.0.mca",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.0.-1.mca",
+            "hash": "72912e3c1905ccaf2420db8514cadd4f64210051225cd596e623be8382690e61",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/region/r.0.-1.mca",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.0.0.mca",
+            "hash": "096d2c61ec9f91b8199077624a9f888e21134d85f6ebc1a8b52e705de3d36cf5",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/region/r.0.0.mca",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/corpse-server.toml",
+            "hash": "09b9e4c7add97afd272feb9f7595228fca449d99d0996589da1b29c31c79d96a",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/corpse-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/curios-server.toml",
+            "hash": "31818944254f689e486489e6ca4fb63a8a409e099e5f3ef99bab39c4d6e8008a",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/curios-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/easy_villagers-server.toml",
+            "hash": "114824c094edcc2808a57ffab052ad4295768587bbe817f467ad36a05958f4b4",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/easy_villagers-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/fastleafdecay-server.toml",
+            "hash": "16f73487c57e98f5985bc539f17c3f638a7cb7676517ba9cc68eabd823999c1a",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/fastleafdecay-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/forge-server.toml",
+            "hash": "5e6e52616da1b55ebeebc3e6e7faaf5936584b23b26a0517d8ce398a98a95764",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/forge-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/incontrol-server.toml",
+            "hash": "eadfa3c3382d98976012fae60c9f67b334433c860c7976ab52b9b2abee74555e",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/incontrol-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/jei-server.toml",
+            "hash": "9736d42f228f95c96c96b90b79b0988931caf7e1b6d455c982c1441371031979",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/jei-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/paraglider-server.toml",
+            "hash": "3aabce36a33c7aa3d0cac5fa718bb178f683c9ad06b5e7e7fb2f2e15333d8cee",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/paraglider-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/pehkui-server.toml",
+            "hash": "87e9fe178e9a06363832fe94aad3ed154846cd5de72aac4f40fa11dd9583fc71",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/pehkui-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/solcarrot-server.toml",
+            "hash": "01f1cc684df618d6e9c9e9d8ca116a4d2ce81e92c0d60f64e87a73c4a578b346",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/solcarrot-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/sophisticatedbackpacks-server.toml",
+            "hash": "7b8e12cae18a0c1719e5a2f8af7a9bde9da858f2e8c2219dfbd905d35f613177",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/sophisticatedbackpacks-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/sophisticatedstorage-server.toml",
+            "hash": "5e240e8cad22550bb119cbf0861f7da0a0178ee42d1efca9c00cfb8c6c911307",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/sophisticatedstorage-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/toms_storage-server.toml",
+            "hash": "5ab94b77745fb2496a19a15dd96b49ce10723f68d088b41d70d1e7d7157af9c6",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/toms_storage-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/serverconfig/xptome-server.toml",
+            "hash": "88a6855a1e2ba4987261d5eb8696f41775cfd332afbe7fbff7a1a27574366387",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/serverconfig/xptome-server.toml",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/stats/11c300f7-b6f8-3901-9063-8f7f9a38532b.json",
+            "hash": "1aad6c723d13bd3e2c799a7c9257c8d5c8332faf2514033e2d98e0ff207b7ca0",
+            "url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/server_files/saves/Mundo nuevo/stats/11c300f7-b6f8-3901-9063-8f7f9a38532b.json",
             "sync_mode": "always"
         },
         {
