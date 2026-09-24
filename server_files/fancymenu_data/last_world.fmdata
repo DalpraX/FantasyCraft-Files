@@ -1,0 +1,7 @@
+type = last_world
+
+last_world {
+  is_server = false
+  world = C:/Users/zerith/AppData/Roaming/.my_launcher_dev/saves/New World
+}
+
