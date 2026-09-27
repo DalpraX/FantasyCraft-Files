@@ -1,11 +1,11 @@
 {
-    "version": "2.0.0",
-    "zip_url": "https://www.dropbox.com/scl/fi/bgcv6hbq8ayl0qkgiglzg/modpack.zip?rlkey=n9ktq78lbrgvvh9mbtpbjo5qi&st=m73np96q&e=1&dl=1",
+    "version": "4.0.0",
+    "zip_url": "Pega_aqui_tu_primer_link",
     "zip_urls": [
-        "https://www.dropbox.com/scl/fi/bgcv6hbq8ayl0qkgiglzg/modpack.zip?rlkey=n9ktq78lbrgvvh9mbtpbjo5qi&st=m73np96q&e=1&dl=1",
-        "https://download1514.mediafire.com/apnabtrblv7g-tfv8B_qHDbUNX3SndruFsgh_kfLKprCPKCeqwpbV0rFoN93wy9mTbXLCruObL0y7JupZg6fq98CexRvZ_XCKNaBOblUD1wlHfFwoUsRujHcSRtVy7n6do7zisuGYcp3a3V-_EKkthQM5mdqyI9HQklpnYhkfUvo-A/vy4illqv8s04yzc/modpack.zip"
+        "https://download1336.mediafire.com/8h77ij7ol2og_H1Qx-tTqcoTdI1Zc9we5H4hIZVHGN4q06-TB0YHSyn6wFHIkK7BTUjfAf2gmnlrsrB7khwx6zBy0D1etsgujRSp4jylQr552AgFRiF_nmYIXbtFXh8oVHBqaVkm1qaI-Hz_vY6H9un_xhNLVeOiLRUjM90Twthonw/vy4illqv8s04yzc/modpack.zip",
+        "https://www.dropbox.com/scl/fi/bgcv6hbq8ayl0qkgiglzg/modpack.zip?rlkey=n9ktq78lbrgvvh9mbtpbjo5qi&st=9cjr5q8c&e=1&dl=1"
     ],
-    "zip_hash": "d598707daa8608df8a001911fd75e7e5e3888166bbc64ef3d7503d74a2a322f1",
+    "zip_hash": "ce00a8f7d04b111ccd168342a947b2767cb65129347af928cbd3a76a28df19bf",
     "strict_folders": [
         "mods",
         "config",
@@ -2035,6 +2035,11 @@
             "sync_mode": "always"
         },
         {
+            "path": "mods/azukaarsfairdifficultyoverhaul-1.2.0.jar",
+            "hash": "818a6bb4f653febc7eb3d31341d2ceac85933bc1546db3ce808654f4e17db61b",
+            "sync_mode": "always"
+        },
+        {
             "path": "mods/BadOptimizations-2.4.1-1.20.1.jar",
             "hash": "3da53cdf856757d9ec7df0be86bc23b2c7d67a019b490f8f64317d4d9b77cac8",
             "sync_mode": "always"
@@ -2140,6 +2145,11 @@
             "sync_mode": "always"
         },
         {
+            "path": "mods/comforts-forge-6.4.0+1.20.1.jar",
+            "hash": "56398103e0e3821c98f21a5b556d57deb0686b9f50868b4278ecb73cc9d2f42c",
+            "sync_mode": "always"
+        },
+        {
             "path": "mods/common-networking-forge-1.0.6-1.20.1.jar",
             "hash": "aefb6ce6c0eb24f2bb76f46d680dd357f0748dae31456f3860bd6cc5d4ab4490",
             "sync_mode": "always"
@@ -2232,6 +2242,11 @@
         {
             "path": "mods/Dungeon Crawl-1.20.1-2.3.15.jar",
             "hash": "71e1b8ceaf20c3102ae42ef2761ca47f30fe4cbd20ecbb687df2ce75d1785514",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/Dynamic Difficulty 1.5a.jar",
+            "hash": "850638c73a553fe270c23d6be6e96d5aad5f0f06285565d9bbd8b618b502a796",
             "sync_mode": "always"
         },
         {
@@ -2542,6 +2557,11 @@
         {
             "path": "mods/mowziesmobs-1.8.2.jar",
             "hash": "e8ce1768cda6f1e1fadd2321c92921b473bd0cee45ba4b8387fb30f8326cb31c",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/NaturesCompass-1.20.1-1.12.0-forge.jar",
+            "hash": "bc3601e9e050802569647de843fe9d3160934c5f31412cba62ca2ea8c1485197",
             "sync_mode": "always"
         },
         {
