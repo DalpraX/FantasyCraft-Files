@@ -5,7 +5,7 @@
         "https://www.dropbox.com/scl/fi/bgcv6hbq8ayl0qkgiglzg/modpack.zip?rlkey=n9ktq78lbrgvvh9mbtpbjo5qi&st=m73np96q&e=1&dl=1",
         "https://download1514.mediafire.com/apnabtrblv7g-tfv8B_qHDbUNX3SndruFsgh_kfLKprCPKCeqwpbV0rFoN93wy9mTbXLCruObL0y7JupZg6fq98CexRvZ_XCKNaBOblUD1wlHfFwoUsRujHcSRtVy7n6do7zisuGYcp3a3V-_EKkthQM5mdqyI9HQklpnYhkfUvo-A/vy4illqv8s04yzc/modpack.zip"
     ],
-    "zip_hash": "d598707daa8608df8a001911fd75e7e5e3888166bbc64ef3d7503d74a2a322f1",
+    "zip_hash": "7680fea526deda1ee2ad588aa609b94a9c8304048d12781ac520298d993a8094",
     "strict_folders": [
         "mods",
         "config",
@@ -2232,6 +2232,11 @@
         {
             "path": "mods/Dungeon Crawl-1.20.1-2.3.15.jar",
             "hash": "71e1b8ceaf20c3102ae42ef2761ca47f30fe4cbd20ecbb687df2ce75d1785514",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/Dynamic Difficulty 1.5a.jar",
+            "hash": "850638c73a553fe270c23d6be6e96d5aad5f0f06285565d9bbd8b618b502a796",
             "sync_mode": "always"
         },
         {
