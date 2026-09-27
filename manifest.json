@@ -1,10 +1,10 @@
 {
     "version": "4.0.0",
-    "zip_url": "https://download1336.mediafire.com/9fva7tx0pmqglQqHpXikNcpqoMSC-pc_CWELLmLqXrDeiAjXi-rvVyZo4mc0zSmfQvwdGE9alr8wg28lVzLZuSTIpvf8Jtl1jAPcH9dgy_nkw_jgvlklRzgu4slcgRfCsfVkR4BgKf1Njbghgl90RJmAa1Ij1NhnNc8q1YVGPTbxSA/05m6r2ojiadj5bm/modpack.zip",
+    "zip_url": "https://drive.google.com/uc?export=download&id=1Lvjtj9MNwVlZ_pjVH7Fna0dRXny4O2fD",
     "zip_urls": [
-        "https://download1336.mediafire.com/9fva7tx0pmqglQqHpXikNcpqoMSC-pc_CWELLmLqXrDeiAjXi-rvVyZo4mc0zSmfQvwdGE9alr8wg28lVzLZuSTIpvf8Jtl1jAPcH9dgy_nkw_jgvlklRzgu4slcgRfCsfVkR4BgKf1Njbghgl90RJmAa1Ij1NhnNc8q1YVGPTbxSA/05m6r2ojiadj5bm/modpack.zip"
+        "https://drive.google.com/uc?export=download&id=1Lvjtj9MNwVlZ_pjVH7Fna0dRXny4O2fD"
     ],
-    "zip_hash": "ce00a8f7d04b111ccd168342a947b2767cb65129347af928cbd3a76a28df19bf",
+    "zip_hash": "e1bc25903742ff47ee2e04c7b0b08192e02b45b9319096a514cc8f10a328d75b",
     "strict_folders": [
         "mods",
         "config",
@@ -2241,11 +2241,6 @@
         {
             "path": "mods/Dungeon Crawl-1.20.1-2.3.15.jar",
             "hash": "71e1b8ceaf20c3102ae42ef2761ca47f30fe4cbd20ecbb687df2ce75d1785514",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/Dynamic Difficulty 1.5a.jar",
-            "hash": "850638c73a553fe270c23d6be6e96d5aad5f0f06285565d9bbd8b618b502a796",
             "sync_mode": "always"
         },
         {
