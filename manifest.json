@@ -1,6 +1,11 @@
 {
-    "version": "2.0.1",
-    "zip_url": "https://www.mediafire.com/file/vy4illqv8s04yzc/modpack.zip/file",
+    "version": "2.0.0",
+    "zip_url": "https://github.com/DalpraX/FantasyCraft-Files/releases/download/v1.0.0/modpack.zip",
+    "zip_urls": [
+        "https://github.com/DalpraX/FantasyCraft-Files/releases/download/v1.0.0/modpack.zip",
+        "https://www.dropbox.com/s/ejemplo/modpack.zip?dl=1",
+        "https://tu-tercer-enlace-de-respaldo.com/modpack.zip"
+    ],
     "zip_hash": "3e4a05bc4ad798636d38270a767cf6d46a0c972d10276a43b95ac2d075d6e4c8",
     "strict_folders": [
         "mods",
