@@ -1,11 +1,11 @@
 {
-    "version": "2.0.0",
-    "zip_url": "https://www.dropbox.com/scl/fi/bgcv6hbq8ayl0qkgiglzg/modpack.zip?rlkey=n9ktq78lbrgvvh9mbtpbjo5qi&st=m73np96q&e=1&dl=1",
+    "version": "4.0.0",
+    "zip_url": "Pega_aqui_tu_primer_link",
     "zip_urls": [
-        "https://www.dropbox.com/scl/fi/bgcv6hbq8ayl0qkgiglzg/modpack.zip?rlkey=n9ktq78lbrgvvh9mbtpbjo5qi&st=m73np96q&e=1&dl=1",
-        "https://download1514.mediafire.com/apnabtrblv7g-tfv8B_qHDbUNX3SndruFsgh_kfLKprCPKCeqwpbV0rFoN93wy9mTbXLCruObL0y7JupZg6fq98CexRvZ_XCKNaBOblUD1wlHfFwoUsRujHcSRtVy7n6do7zisuGYcp3a3V-_EKkthQM5mdqyI9HQklpnYhkfUvo-A/vy4illqv8s04yzc/modpack.zip"
+        "Pega_aqui_tu_primer_link",
+        "Pega_aqui_tu_segundo_link_de_respaldo"
     ],
-    "zip_hash": "7680fea526deda1ee2ad588aa609b94a9c8304048d12781ac520298d993a8094",
+    "zip_hash": "ce00a8f7d04b111ccd168342a947b2767cb65129347af928cbd3a76a28df19bf",
     "strict_folders": [
         "mods",
         "config",
@@ -2035,6 +2035,11 @@
             "sync_mode": "always"
         },
         {
+            "path": "mods/azukaarsfairdifficultyoverhaul-1.2.0.jar",
+            "hash": "818a6bb4f653febc7eb3d31341d2ceac85933bc1546db3ce808654f4e17db61b",
+            "sync_mode": "always"
+        },
+        {
             "path": "mods/BadOptimizations-2.4.1-1.20.1.jar",
             "hash": "3da53cdf856757d9ec7df0be86bc23b2c7d67a019b490f8f64317d4d9b77cac8",
             "sync_mode": "always"
@@ -2137,6 +2142,11 @@
         {
             "path": "mods/colorfulhearts-forge-1.20.1-4.3.16.jar",
             "hash": "cff4fe41c167b6bdf15d41ab6778994434daddad833b938602b998890c86b696",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/comforts-forge-6.4.0+1.20.1.jar",
+            "hash": "56398103e0e3821c98f21a5b556d57deb0686b9f50868b4278ecb73cc9d2f42c",
             "sync_mode": "always"
         },
         {
@@ -2547,6 +2557,11 @@
         {
             "path": "mods/mowziesmobs-1.8.2.jar",
             "hash": "e8ce1768cda6f1e1fadd2321c92921b473bd0cee45ba4b8387fb30f8326cb31c",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/NaturesCompass-1.20.1-1.12.0-forge.jar",
+            "hash": "bc3601e9e050802569647de843fe9d3160934c5f31412cba62ca2ea8c1485197",
             "sync_mode": "always"
         },
         {
