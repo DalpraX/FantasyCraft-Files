@@ -1,7 +1,7 @@
 {
-    "version": "2.0.0",
-    "zip_url": "https://raw.githubusercontent.com/DalpraX/FantasyCraft-Files/refs/heads/main/modpack.zip",
-    "zip_hash": "d8dedc39c2ed542f513bd9418e412eb756507a37952d03a3ad75f834b7c27a67",
+    "version": "2.0.1",
+    "zip_url": "https://www.mediafire.com/file/vy4illqv8s04yzc/modpack.zip/file",
+    "zip_hash": "3e4a05bc4ad798636d38270a767cf6d46a0c972d10276a43b95ac2d075d6e4c8",
     "strict_folders": [
         "mods",
         "config",
@@ -12,7 +12,7 @@
     "files": [
         {
             "path": "options.txt",
-            "hash": "c4e39e7be05a6b2587f6d96881817c13d817303e7bab727e8e10b4bfe63cbc96",
+            "hash": "f352f3ea44ae50281cafce9f4f9468b5e4850a173cc7c4e4c2016356f21fe47d",
             "sync_mode": "once"
         },
         {
@@ -207,7 +207,7 @@
         },
         {
             "path": "config/embeddium-fingerprint.json",
-            "hash": "1a592d08bd9da50fc4173d19568587c66311342229149f8b866c797b30a7b26d",
+            "hash": "a5162b19e59b47f5c61fd6499c90384c7fe0d0a365679d5c5beaaacdd81a9d6a",
             "sync_mode": "always"
         },
         {
@@ -228,6 +228,11 @@
         {
             "path": "config/endrem.toml",
             "hash": "a7e392980ae50a17ca0075b0c44095b525d245c3920616d7893066b3f8b84d1f",
+            "sync_mode": "always"
+        },
+        {
+            "path": "config/entityculling.json",
+            "hash": "ceb5b3624c3269bef037b2914da8ab0d1c368abdd466156292a5d82db8803b0e",
             "sync_mode": "always"
         },
         {
@@ -376,6 +381,11 @@
             "sync_mode": "always"
         },
         {
+            "path": "config/modernfix-mixins.properties",
+            "hash": "a98afb4f389eb14bf8ce5d295492d9a0d548ec1b537c84d020b5bfdf5e7a2c8f",
+            "sync_mode": "always"
+        },
+        {
             "path": "config/moonlight-client.toml",
             "hash": "47297d47ca3fa4525d1adbc7234b9b0dc2ee490b87216fe6002e34ff69acac08",
             "sync_mode": "always"
@@ -422,7 +432,7 @@
         },
         {
             "path": "config/oculus.properties",
-            "hash": "4aa8ec3e41185209115af589605b9cf7b4250c0bf5a0bb8a2ec169745e532532",
+            "hash": "6c131aee7d31070224efa068d1612f0dfa17e6bdd45e6a2c9f777fd35f0b95b7",
             "sync_mode": "always"
         },
         {
@@ -566,8 +576,18 @@
             "sync_mode": "always"
         },
         {
+            "path": "config/transition.json",
+            "hash": "6c0060c7301372bbc414f86a139b383e34fb620f0621badd71bb19efc3f26767",
+            "sync_mode": "always"
+        },
+        {
             "path": "config/travelerstitles-forge-1_20.toml",
             "hash": "c339ffec047e7faa8471f9c36ab83434db0262476194da70f4691575a6a1cea5",
+            "sync_mode": "always"
+        },
+        {
+            "path": "config/trender.json",
+            "hash": "fe0bed19bd0927b3d519816c73378730689080a8f07e66a6167c266ffde29dd2",
             "sync_mode": "always"
         },
         {
@@ -1206,6 +1226,31 @@
             "sync_mode": "always"
         },
         {
+            "path": "config/crash_assistant/config.toml",
+            "hash": "a1616b91399091d7036bead3f63f99aeda3afd58e2dcd8d926cc9e1d8c89fa89",
+            "sync_mode": "always"
+        },
+        {
+            "path": "config/crash_assistant/modlist.json",
+            "hash": "273ea611a15fbd40975c0baf72d2e8a456b8c8d5f9bf2ae376387d36990136e1",
+            "sync_mode": "always"
+        },
+        {
+            "path": "config/crash_assistant/crash_assistant_localization_overrides/README.md",
+            "hash": "943e1c3672b8a03f27519b357091133205119c7b3db2fcc4c25b597cabf8926d",
+            "sync_mode": "always"
+        },
+        {
+            "path": "config/crash_assistant/scripts/log_analysis/example.jexl",
+            "hash": "adde7e5e42b9d716f14a9bc49797999a21a0ee05cc67e71410a232f830115b3b",
+            "sync_mode": "always"
+        },
+        {
+            "path": "config/crash_assistant/scripts/startup/example.jexl",
+            "hash": "346378f04a9e7319cdcb405fad82d6e7f1b36b39e0e4129c00a226b49f41cf37",
+            "sync_mode": "always"
+        },
+        {
             "path": "config/cristellib/minecraftED.json5",
             "hash": "8e01cc9b7e46f74fd60ce36d3459628b8198cb988051ae52f14cda36ef0fd869",
             "sync_mode": "always"
@@ -1217,7 +1262,7 @@
         },
         {
             "path": "config/euphoria_patcher/data.json",
-            "hash": "1aaac695f23e3e58167d8f5f433a553cbcb6520cd2e31ff36d54364c29798bf3",
+            "hash": "37824840533fc69c3e806a13d96f62e5e676dc1c82ab55fd121e7401b3831c46",
             "sync_mode": "always"
         },
         {
@@ -1233,6 +1278,11 @@
         {
             "path": "config/explorify/structure_toggles.json5",
             "hash": "24778eafab43d7a4d742572aee3e1b85ee04b5c3fdd88cd713139b3ca7e82760",
+            "sync_mode": "always"
+        },
+        {
+            "path": "config/fancymenu/customizablemenus.txt",
+            "hash": "435fb4681026611eebd0660a20fcf430a95a3a709a79598d5fc29edd6a601d0a",
             "sync_mode": "always"
         },
         {
@@ -1646,6 +1696,26 @@
             "sync_mode": "always"
         },
         {
+            "path": "config/konkrete/locals/de_de.local",
+            "hash": "79a34cfd15c2d9c06498dc221be79279507d9b57666cd44f8d2c2cf95d3582ef",
+            "sync_mode": "always"
+        },
+        {
+            "path": "config/konkrete/locals/en_us.local",
+            "hash": "fdf1864fd049b3f1b9af1f8db6c5125a627be7d06a451c778da3329843d3c39a",
+            "sync_mode": "always"
+        },
+        {
+            "path": "config/konkrete/locals/pl_pl.local",
+            "hash": "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8",
+            "sync_mode": "always"
+        },
+        {
+            "path": "config/konkrete/locals/pt_br.local",
+            "hash": "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c",
+            "sync_mode": "always"
+        },
+        {
             "path": "config/lootbeams/custom_config.toml",
             "hash": "c7568506ab9963acc611408b788a369d4303e12272946d3e15a33345a7291d00",
             "sync_mode": "always"
@@ -1887,7 +1957,7 @@
         },
         {
             "path": "fancymenu_data/last_world.fmdata",
-            "hash": "68b7f3ed3703afaae84ded71505da9dea54b60d59a5f6e68ce6e677e05b64ea6",
+            "hash": "ec48d2d53bebdffbaaeaa9e36e8ae14d54c0f260fffc72d8298af44b244aa9ad",
             "sync_mode": "always"
         },
         {
@@ -2737,7 +2807,7 @@
         },
         {
             "path": "mods/mcef-cache/LocalPrefs.json",
-            "hash": "1bd6857c929e4c70815bcd95b1417fbcd526e38fa6ae03dbad8ae67bb01cee16",
+            "hash": "21da90aee550be48835708422899de9a0253cabe3f64044b4e2b57e2d912df40",
             "sync_mode": "always"
         },
         {
@@ -2747,12 +2817,12 @@
         },
         {
             "path": "mods/mcef-cache/LOG",
-            "hash": "147b3ee0526b30944392950f28e6f06baa219a1927ce8d6377e430c5c03b5610",
+            "hash": "bf5f46959e4e8dbe0590cd96619183c9883db63f16aa0e07921cdd2d437f133a",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/LOG.old",
-            "hash": "23bc1d9105d090b11a640d9a5bcdcff1a5dc622c51b045955e4b8046da6b0a37",
+            "hash": "5404053798044c8a691d61ed7543c3337fe35b6e39655f6a6d55dbb98171bfe4",
             "sync_mode": "always"
         },
         {
@@ -2762,17 +2832,17 @@
         },
         {
             "path": "mods/mcef-cache/Visited Links",
-            "hash": "62c30565049b4d845391f61668be78253806dfbb5ee567954f370c1593ae847d",
+            "hash": "49333a5674d1d4cdd2b21312c7933cfe1dc9d2593e24aaf2a8cc1c489bcd473f",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/Cache/Cache_Data/data_0",
-            "hash": "61860d9cee01ba7147016d6c4a5b76d94ea7a317e577170feb90f36432b5382d",
+            "hash": "d8252886450417626de7898f8e7b85b366276cd06f9f96f89b9c1afd35ab9128",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/Cache/Cache_Data/data_1",
-            "hash": "4040bccd7b90e7315d355e179fddc13258223d8dbd8a8c523158a329c9151f7b",
+            "hash": "abde72102b15f1a8ea289626d6259285542af2ffc058aa6b7db06d4e5f6c0d94",
             "sync_mode": "always"
         },
         {
@@ -2782,7 +2852,7 @@
         },
         {
             "path": "mods/mcef-cache/Cache/Cache_Data/data_3",
-            "hash": "914a28b21bb28dcbca053ab56a48e30278eb8083aa69984d9661a3b9dfa05f41",
+            "hash": "66624160f482a8c2498309edc103c02e13d84654324d7d87b957f65542936500",
             "sync_mode": "always"
         },
         {
@@ -3976,8 +4046,343 @@
             "sync_mode": "always"
         },
         {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000ef",
+            "hash": "4bdefe9ffe1b8ca6931dd45477ef91f9ed59b7152a4ae1653c7967207508655d",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000f0",
+            "hash": "42d65d98abdd498b4ab6e513047c63e869a9bf0c54f1c0295b9591d202fa64b7",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000f1",
+            "hash": "9192ead866cdb1e7fcd9c4050ad9d1b7ea85273d7b82f8eaad41db7ae0e25621",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000f2",
+            "hash": "cf8f31a4cd6836d7ee09920ab9d37674df250f8d40ad209a974b52e55003f981",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000f3",
+            "hash": "bce24823936bfa0f952f660be1b849b9c6eeda690272c5ff4f6a5510591d38b4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000f4",
+            "hash": "7211f0a817863622aa5c2095e4a11766ff6a319b94ce8e7fd1335445350cffae",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000f5",
+            "hash": "02887a04cac820995a3851f5a4cad99ee17b234a19e9c087d5ef2e7cff2739ea",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000f6",
+            "hash": "0a9f0f94a059363639d487be33ec56d2eb505f9ca6ffaa45e1fe2dfc40667dc8",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000f7",
+            "hash": "8ec37a0dcd329d31db0ffe664cb2c7eae3cbd6f7d0ae91cbe8c7d25c48b60305",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000f8",
+            "hash": "907c2192c50c6d30c7515c07d1679819bcfe1192d858422e1a275ed466207584",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000f9",
+            "hash": "f8f5e16bc92bca8bfd9f1767d330988729780d88438b72e8a2b67c617a7e66f6",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000fa",
+            "hash": "16f3d5f2fb75ff2438cfdf6e82368389e7d61324d1035b23f6a19c5735290eff",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000fb",
+            "hash": "4bdefe9ffe1b8ca6931dd45477ef91f9ed59b7152a4ae1653c7967207508655d",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000fc",
+            "hash": "42d65d98abdd498b4ab6e513047c63e869a9bf0c54f1c0295b9591d202fa64b7",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000fd",
+            "hash": "9192ead866cdb1e7fcd9c4050ad9d1b7ea85273d7b82f8eaad41db7ae0e25621",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000fe",
+            "hash": "cf8f31a4cd6836d7ee09920ab9d37674df250f8d40ad209a974b52e55003f981",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_0000ff",
+            "hash": "bce24823936bfa0f952f660be1b849b9c6eeda690272c5ff4f6a5510591d38b4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000100",
+            "hash": "df07ad198331d9118d6c3d7d82229619c77610c9dad253530bf16b0c81914da1",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000101",
+            "hash": "4bdefe9ffe1b8ca6931dd45477ef91f9ed59b7152a4ae1653c7967207508655d",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000102",
+            "hash": "42d65d98abdd498b4ab6e513047c63e869a9bf0c54f1c0295b9591d202fa64b7",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000103",
+            "hash": "9192ead866cdb1e7fcd9c4050ad9d1b7ea85273d7b82f8eaad41db7ae0e25621",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000104",
+            "hash": "cf8f31a4cd6836d7ee09920ab9d37674df250f8d40ad209a974b52e55003f981",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000105",
+            "hash": "bce24823936bfa0f952f660be1b849b9c6eeda690272c5ff4f6a5510591d38b4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000106",
+            "hash": "7211f0a817863622aa5c2095e4a11766ff6a319b94ce8e7fd1335445350cffae",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000107",
+            "hash": "02887a04cac820995a3851f5a4cad99ee17b234a19e9c087d5ef2e7cff2739ea",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000108",
+            "hash": "0a9f0f94a059363639d487be33ec56d2eb505f9ca6ffaa45e1fe2dfc40667dc8",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000109",
+            "hash": "4bdefe9ffe1b8ca6931dd45477ef91f9ed59b7152a4ae1653c7967207508655d",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00010a",
+            "hash": "42d65d98abdd498b4ab6e513047c63e869a9bf0c54f1c0295b9591d202fa64b7",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00010b",
+            "hash": "9192ead866cdb1e7fcd9c4050ad9d1b7ea85273d7b82f8eaad41db7ae0e25621",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00010c",
+            "hash": "cf8f31a4cd6836d7ee09920ab9d37674df250f8d40ad209a974b52e55003f981",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00010d",
+            "hash": "bce24823936bfa0f952f660be1b849b9c6eeda690272c5ff4f6a5510591d38b4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00010e",
+            "hash": "7211f0a817863622aa5c2095e4a11766ff6a319b94ce8e7fd1335445350cffae",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00010f",
+            "hash": "4bdefe9ffe1b8ca6931dd45477ef91f9ed59b7152a4ae1653c7967207508655d",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000110",
+            "hash": "42d65d98abdd498b4ab6e513047c63e869a9bf0c54f1c0295b9591d202fa64b7",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000111",
+            "hash": "9192ead866cdb1e7fcd9c4050ad9d1b7ea85273d7b82f8eaad41db7ae0e25621",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000112",
+            "hash": "cf8f31a4cd6836d7ee09920ab9d37674df250f8d40ad209a974b52e55003f981",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000113",
+            "hash": "bce24823936bfa0f952f660be1b849b9c6eeda690272c5ff4f6a5510591d38b4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000114",
+            "hash": "7211f0a817863622aa5c2095e4a11766ff6a319b94ce8e7fd1335445350cffae",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000115",
+            "hash": "02887a04cac820995a3851f5a4cad99ee17b234a19e9c087d5ef2e7cff2739ea",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000116",
+            "hash": "9abdbd4ee6f5b34a2a210538a7df5250ccd52c5d0d8b1330a2bcbd16fa168617",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000117",
+            "hash": "4bdefe9ffe1b8ca6931dd45477ef91f9ed59b7152a4ae1653c7967207508655d",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000118",
+            "hash": "42d65d98abdd498b4ab6e513047c63e869a9bf0c54f1c0295b9591d202fa64b7",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000119",
+            "hash": "9192ead866cdb1e7fcd9c4050ad9d1b7ea85273d7b82f8eaad41db7ae0e25621",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00011a",
+            "hash": "cf8f31a4cd6836d7ee09920ab9d37674df250f8d40ad209a974b52e55003f981",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00011b",
+            "hash": "bce24823936bfa0f952f660be1b849b9c6eeda690272c5ff4f6a5510591d38b4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00011c",
+            "hash": "7211f0a817863622aa5c2095e4a11766ff6a319b94ce8e7fd1335445350cffae",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00011d",
+            "hash": "02887a04cac820995a3851f5a4cad99ee17b234a19e9c087d5ef2e7cff2739ea",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00011e",
+            "hash": "0a9f0f94a059363639d487be33ec56d2eb505f9ca6ffaa45e1fe2dfc40667dc8",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00011f",
+            "hash": "8ec37a0dcd329d31db0ffe664cb2c7eae3cbd6f7d0ae91cbe8c7d25c48b60305",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000120",
+            "hash": "8c40e8817e70ef7c460460cc67ef49848abf3db1af13a5c6ef7bb2a193ea2072",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000123",
+            "hash": "9192ead866cdb1e7fcd9c4050ad9d1b7ea85273d7b82f8eaad41db7ae0e25621",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000124",
+            "hash": "cf8f31a4cd6836d7ee09920ab9d37674df250f8d40ad209a974b52e55003f981",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000125",
+            "hash": "bce24823936bfa0f952f660be1b849b9c6eeda690272c5ff4f6a5510591d38b4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000126",
+            "hash": "4bdefe9ffe1b8ca6931dd45477ef91f9ed59b7152a4ae1653c7967207508655d",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000127",
+            "hash": "42d65d98abdd498b4ab6e513047c63e869a9bf0c54f1c0295b9591d202fa64b7",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000128",
+            "hash": "9192ead866cdb1e7fcd9c4050ad9d1b7ea85273d7b82f8eaad41db7ae0e25621",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000129",
+            "hash": "cf8f31a4cd6836d7ee09920ab9d37674df250f8d40ad209a974b52e55003f981",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00012a",
+            "hash": "bce24823936bfa0f952f660be1b849b9c6eeda690272c5ff4f6a5510591d38b4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00012b",
+            "hash": "7211f0a817863622aa5c2095e4a11766ff6a319b94ce8e7fd1335445350cffae",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00012c",
+            "hash": "02887a04cac820995a3851f5a4cad99ee17b234a19e9c087d5ef2e7cff2739ea",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00012d",
+            "hash": "a24d8a2f5fe499f0ff3d6d2e664ac24f1650d4185148df124abfdaad046bd5f0",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00012e",
+            "hash": "4bdefe9ffe1b8ca6931dd45477ef91f9ed59b7152a4ae1653c7967207508655d",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00012f",
+            "hash": "42d65d98abdd498b4ab6e513047c63e869a9bf0c54f1c0295b9591d202fa64b7",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000130",
+            "hash": "9192ead866cdb1e7fcd9c4050ad9d1b7ea85273d7b82f8eaad41db7ae0e25621",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000131",
+            "hash": "cf8f31a4cd6836d7ee09920ab9d37674df250f8d40ad209a974b52e55003f981",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000132",
+            "hash": "bce24823936bfa0f952f660be1b849b9c6eeda690272c5ff4f6a5510591d38b4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000133",
+            "hash": "7211f0a817863622aa5c2095e4a11766ff6a319b94ce8e7fd1335445350cffae",
+            "sync_mode": "always"
+        },
+        {
             "path": "mods/mcef-cache/Cache/Cache_Data/index",
-            "hash": "ee16d1d5a05de138cc7075cf4320313b8b9e7f622e3d2e897d232de342ea51c2",
+            "hash": "d6868b69f1b3edd7b3f0155fcd1805602a2b48258bd25ffc76a7ba1f65b3d148",
             "sync_mode": "always"
         },
         {
@@ -3987,7 +4392,7 @@
         },
         {
             "path": "mods/mcef-cache/Code Cache/js/index-dir/the-real-index",
-            "hash": "4630655912f8e69f18d1306139eca37bf91481303b718d87fd2ebb6835f62b67",
+            "hash": "ff72db9bd7e3a4d8458bda1548d299371695d82c81a480ea817b897cd0d40bff",
             "sync_mode": "always"
         },
         {
@@ -3997,7 +4402,7 @@
         },
         {
             "path": "mods/mcef-cache/Code Cache/wasm/index-dir/the-real-index",
-            "hash": "814dcf8d3983860e092869b8344338119413b0273d0bf6ac6f1f80d4ea9daca2",
+            "hash": "900c0643a7b17e3286255519e891fdacc2b0c215844131b20a077b01b37db5a9",
             "sync_mode": "always"
         },
         {
@@ -4022,7 +4427,7 @@
         },
         {
             "path": "mods/mcef-cache/DawnCache/index",
-            "hash": "040804792c00dc4774f3757483a4afe0491f389b8f36dc1feadff1cb9aa460dd",
+            "hash": "2de2c013fcf43f8c4e653a559ad364b921487bc3eab590824d2ac1e0d43d4e87",
             "sync_mode": "always"
         },
         {
@@ -4047,7 +4452,7 @@
         },
         {
             "path": "mods/mcef-cache/GPUCache/index",
-            "hash": "13ed2287654df14a219ee005fe864b8efb254b35a1af3754c8b2ca4b5fb6bd06",
+            "hash": "782fc08b0db4fb71342e020de5a3ac5772b68b0541d37d80959a0f5900b49983",
             "sync_mode": "always"
         },
         {
@@ -4067,12 +4472,12 @@
         },
         {
             "path": "mods/mcef-cache/Local Storage/leveldb/LOG",
-            "hash": "7dd454cbd3f3d446e165fca8cd8f36e0969095072b960b7f19e16e3dcdeb702c",
+            "hash": "8261c16875da69a6acdae530839d42e768cf6c20d8118220b874c72965654734",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/Local Storage/leveldb/LOG.old",
-            "hash": "9efc1516390a2159b8dc994c79b4e43fdaa8260318ca250077dbe4e7bb3624ed",
+            "hash": "12bfd5c957715cb20b4d1c3a7c39324ec084ecd3dbb7a55afb285c7e43915619",
             "sync_mode": "always"
         },
         {
@@ -4117,12 +4522,12 @@
         },
         {
             "path": "mods/mcef-cache/Network/TransportSecurity",
-            "hash": "e41f8475034b808da9910e7c8361264e3be20314a1c099bc61f6832f884906d3",
+            "hash": "f107bcc7a52ad58ac4769d10fdfc34bd610933e970147d26fe1d4eb087502137",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/Session Storage/000003.log",
-            "hash": "3f233966c7b65ba4f5a81d9839e12e3309a8d4e4e7ba6742c3742da2c812dffc",
+            "hash": "dbe76ca76a9d324f6c6b9675d82c94fe48fcdb0fcce6d0406940e82064dd922f",
             "sync_mode": "always"
         },
         {
@@ -4137,12 +4542,12 @@
         },
         {
             "path": "mods/mcef-cache/Session Storage/LOG",
-            "hash": "33699d9e1b7909dbf1c286d720d294e88ed7dcb502936c9b6e93cc8983f34a04",
+            "hash": "8a319dbdda6dfc2e45019c1fff34101d0b8bd8e0f39475ed7d6f45b183b25f00",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/Session Storage/LOG.old",
-            "hash": "9c7db5bbd5f9510a0531cad4eda9c1eeaf414ec86608f3219d49bfbd0457a5dc",
+            "hash": "e5acfe9dafb17a84fe751b8c0425cf2d20c4993862f83494237d4997fdbbd560",
             "sync_mode": "always"
         },
         {
@@ -4152,7 +4557,7 @@
         },
         {
             "path": "mods/mcef-cache/shared_proto_db/000003.log",
-            "hash": "60d7add24550db0a9fddb5cecf4ceb5b349c44131a31a700895f9c551f1518c1",
+            "hash": "12cff2c1ad4de94bbee0ff974dabd61381c4a331d2b6b55575a6fbdade20bc76",
             "sync_mode": "always"
         },
         {
@@ -4167,12 +4572,12 @@
         },
         {
             "path": "mods/mcef-cache/shared_proto_db/LOG",
-            "hash": "167d95ddbc52b8ae5bc1188af816969d7d860d81229012c563562c512d236129",
+            "hash": "e7f8f13679fffd46b154688c8f134326aba4d49e944064108dd3f989476c3819",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/shared_proto_db/LOG.old",
-            "hash": "c9566a9f42be17ff8311df2c64211aad7891d3eee261241a08d6919d8f19cfcb",
+            "hash": "909ede9aa099f2a3da4db833fbc5c091d54c0589aeacf0c1fd6edae47acc7a17",
             "sync_mode": "always"
         },
         {
@@ -4182,7 +4587,7 @@
         },
         {
             "path": "mods/mcef-cache/shared_proto_db/metadata/000003.log",
-            "hash": "a33dd96348bca2a185cfcaa8cd43de1d8e5a52661e3bba84da7fba17290feb2d",
+            "hash": "835cd8b95da0f22e1dde4d84eaa8a8870f71c04ac393ba685b98c9502ba5e609",
             "sync_mode": "always"
         },
         {
@@ -4197,12 +4602,12 @@
         },
         {
             "path": "mods/mcef-cache/shared_proto_db/metadata/LOG",
-            "hash": "3017191a3a584560967691d340426cc755693945977ab1ee822fe095431735eb",
+            "hash": "acdb72b740904f3bf764c44544081669102be0ac77666199aed38f482d7d6f4f",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/shared_proto_db/metadata/LOG.old",
-            "hash": "d7028acd1ccd63a2ec50afdd62c7cba4fed9a18cedfe6472a6510384cc534fd9",
+            "hash": "7bfeb622e25cb6f2dc93054fce50b71ecdb5778a05d4b49a4f5eae41f41e6204",
             "sync_mode": "always"
         },
         {
@@ -4237,12 +4642,12 @@
         },
         {
             "path": "saves/Mundo nuevo/level.dat",
-            "hash": "e021db47f5439b3c02034196f1e144f1fbb8f1aa9c28a15986ab3679b62c998f",
+            "hash": "fe0e47f569bef453ac115c8fd81ba8c2f2c3e289ee23100a72fbc11fbda47d96",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/level.dat_old",
-            "hash": "4807acc29063835d07fb18ea62abce70ac2dc16765a074a3ea43d0822f962ea2",
+            "hash": "7266a73d106be18374a173beb71e9f31276fdd5958ecea5da9fc0ed85778b0bf",
             "sync_mode": "always"
         },
         {
@@ -4263,6 +4668,11 @@
         {
             "path": "saves/Mundo nuevo/advancements/11c300f7-b6f8-3901-9063-8f7f9a38532b.json",
             "hash": "3f7a481831bcc77d41d60cca8b082b62b583adf127c0d2cc24f9835cccce108f",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/advancements/86cfaf5f-5d93-3016-8198-3a938260cda7.json",
+            "hash": "490581ea32ba5630ace373d5d9bbeb525e7f3936e48b185be205b01fbeb2266e",
             "sync_mode": "always"
         },
         {
@@ -4287,7 +4697,7 @@
         },
         {
             "path": "saves/Mundo nuevo/data/DistantHorizons.sqlite",
-            "hash": "429e2acdd6a55655cba819e28b2c2134e473146d650f5f0b726df5d545f68d67",
+            "hash": "baf0ebeba65421eb691dfbcf40b10d4239377dc06b7871e0895f01af8ee57917",
             "sync_mode": "always"
         },
         {
@@ -4302,17 +4712,17 @@
         },
         {
             "path": "saves/Mundo nuevo/data/raids.dat",
-            "hash": "06065d864841f09fb30048b609ec3706d4f16b8428800c5135b7f396f9099ee4",
+            "hash": "1c022d794766abd19fd2b4583a212748b1faeb246f95e251211ad942a27cc293",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/data/random_sequences.dat",
-            "hash": "d54040157da1e16f83c0b362d7e432d59533fdcd8194fca9f35f16ab70d96031",
+            "hash": "8998844851c64a49672a2ea546c03eec1fd9765f5ba66d57b3a78d2b1b4aa1d1",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/data/scoreboard.dat",
-            "hash": "981f7cfdb39be8ec4aceb99a8a65f7894109b99c5e17c9ff4fc4b7effad7b501",
+            "hash": "668afe34e21dc59fa6891648e34f886315e30c28afcb8d8e10e9a2dc920f5c82",
             "sync_mode": "always"
         },
         {
@@ -4322,7 +4732,7 @@
         },
         {
             "path": "saves/Mundo nuevo/data/waystones.dat",
-            "hash": "866437b9851b529e9f97d7cf25dd2c9c1b1a8743f8b260588c3f9c0221404b78",
+            "hash": "649e7d719e5594800bdf3b69216aeb167c0c8e9970087ee87fa3466c9b5d872c",
             "sync_mode": "always"
         },
         {
@@ -4337,7 +4747,7 @@
         },
         {
             "path": "saves/Mundo nuevo/DIM-1/data/raids.dat",
-            "hash": "06065d864841f09fb30048b609ec3706d4f16b8428800c5135b7f396f9099ee4",
+            "hash": "1c022d794766abd19fd2b4583a212748b1faeb246f95e251211ad942a27cc293",
             "sync_mode": "always"
         },
         {
@@ -4352,7 +4762,7 @@
         },
         {
             "path": "saves/Mundo nuevo/DIM1/data/raids_end.dat",
-            "hash": "06065d864841f09fb30048b609ec3706d4f16b8428800c5135b7f396f9099ee4",
+            "hash": "1c022d794766abd19fd2b4583a212748b1faeb246f95e251211ad942a27cc293",
             "sync_mode": "always"
         },
         {
@@ -4367,27 +4777,27 @@
         },
         {
             "path": "saves/Mundo nuevo/dimensions/mofus_better_end_/broken_constellation/data/raids.dat",
-            "hash": "06065d864841f09fb30048b609ec3706d4f16b8428800c5135b7f396f9099ee4",
+            "hash": "1c022d794766abd19fd2b4583a212748b1faeb246f95e251211ad942a27cc293",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/entities/r.-1.-1.mca",
-            "hash": "7e121f732fb34ea25285faa7fb4dc120181fcf55c1bf213e686449842eb455c6",
+            "hash": "24fb9fc97f923a22a8647017686af227816d6a5f90a23d74b63c368668584e01",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/entities/r.-1.0.mca",
-            "hash": "a57ad4b94439f47367d9a19d2209f2fb2e16bd3210ec8e003fa90146d240f9e2",
+            "hash": "ca402e8c7860afd7c824bf4f4b2bb54ba84708bf4f8537fdd615f6490ba3ed4c",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/entities/r.0.-1.mca",
-            "hash": "a589c5f553383c1125b350feb7cec659717372bd3a9ee4996dfeac3905a11e59",
+            "hash": "c5fd982ade237f2c4c598844a550b0a7282e7e82e2f344588d486916cc382390",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/entities/r.0.0.mca",
-            "hash": "5f5a5f42bbd344baf1d85b982a0eeb4a7e08974a0860842be30010df5591ab20",
+            "hash": "132bed3d2e1ec648cb5a8848411c58831347f7cb9dde23d71f5f7c139106cdce",
             "sync_mode": "always"
         },
         {
@@ -4406,43 +4816,118 @@
             "sync_mode": "always"
         },
         {
+            "path": "saves/Mundo nuevo/playerdata/86cfaf5f-5d93-3016-8198-3a938260cda7.cosarmor",
+            "hash": "c804a6eb6d99fd25b8d08320cfaffd9dc6c11d81cb5704ee0b91c1cd7ca947d1",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/playerdata/86cfaf5f-5d93-3016-8198-3a938260cda7.dat",
+            "hash": "25d0c4cb84ab72e7608953bddfec0e90412ed73be229974909d3f2361a4fb00a",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/playerdata/86cfaf5f-5d93-3016-8198-3a938260cda7.dat_old",
+            "hash": "76cf20da3ce1bde007b035ec7599b2ddcd869b6e8a098569e596ce30365187d8",
+            "sync_mode": "always"
+        },
+        {
             "path": "saves/Mundo nuevo/poi/r.-1.-1.mca",
-            "hash": "97b01ea152f1675a4b6b0aa5327377f9722e7a97c9e11302cff19d5a1e92dfa1",
+            "hash": "4f1d48111a7dc2e4751f914701d95e58d0de86c442e13fc91b0e65e64449a4e7",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/poi/r.-1.0.mca",
-            "hash": "cb458e2260c6c609e9351e99628c2a355f1dd1b6197268b13ce2635981137a7f",
+            "hash": "909bd24f8725e52715bd9ea3d32263b3b70ffcf76278d8c9fd46fa4467345941",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/poi/r.0.-1.mca",
-            "hash": "bf7576496b2baf1f7163224f6c7c1027845ea1a4f1a8beac923ae04d62bfc7f5",
+            "hash": "688815997a15b4e59347ca036e982763a17765d70e821229dce982ce15b1b85c",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/poi/r.0.0.mca",
-            "hash": "9bf1ad0243dba2410b9490a6a36b71882c545e02be8dc55d27bc34eb134abdeb",
+            "hash": "d0ec7f1c4f640857023e7a3dea647e97de4ec495ff11fce16cf6f24efa8b6c6c",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/region/r.-1.-1.mca",
-            "hash": "da0f6cdb63dfe4d985fc014a231e1a4458f1f4337865ad796ed7b0a2d908a87b",
+            "hash": "6c2cb9c10890c1400aec3aecb0f4b309358c69bee5fa4762505f506577c78eee",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.-1.-2.mca",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/region/r.-1.0.mca",
-            "hash": "4711461851e17c5b993cb919bb5f643f591f1328ec2694c7f704f15011ab177b",
+            "hash": "bf68bd293eddf7eb4a77ccb7cda9e8535529381e7eceb6000158f894e9cd4e0b",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.-1.1.mca",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.-2.-1.mca",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.-2.-2.mca",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.-2.0.mca",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.-2.1.mca",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/region/r.0.-1.mca",
-            "hash": "72912e3c1905ccaf2420db8514cadd4f64210051225cd596e623be8382690e61",
+            "hash": "67c2a67a5978d68ab8b8966d4289b396a24b02ca73487a2f0c19a4b5ecb8d1cd",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.0.-2.mca",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
             "sync_mode": "always"
         },
         {
             "path": "saves/Mundo nuevo/region/r.0.0.mca",
-            "hash": "096d2c61ec9f91b8199077624a9f888e21134d85f6ebc1a8b52e705de3d36cf5",
+            "hash": "e336de15d9188669aa8c138c6a5bef38f1e05674ad023f9ea6541ad63695974c",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.0.1.mca",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.1.-1.mca",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.1.-2.mca",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.1.0.mca",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "sync_mode": "always"
+        },
+        {
+            "path": "saves/Mundo nuevo/region/r.1.1.mca",
+            "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
             "sync_mode": "always"
         },
         {
@@ -4521,6 +5006,11 @@
             "sync_mode": "always"
         },
         {
+            "path": "saves/Mundo nuevo/stats/86cfaf5f-5d93-3016-8198-3a938260cda7.json",
+            "hash": "2195f42f094c2f80039841c36bc030ae4cf78d271b56b8fb1a5e859a69079ec8",
+            "sync_mode": "always"
+        },
+        {
             "path": "shaderpacks/Global_Shaders.zip",
             "hash": "8eae9f4b46c8c0fd98968d9ff58d9d25903cf11c79926d8d08c7ae0029d09f97",
             "sync_mode": "always"
@@ -4537,7 +5027,7 @@
         },
         {
             "path": "shaderpacks/_0EUPHORIA_PATCHES_ERROR_LOGS.txt",
-            "hash": "e00169335316ae1981c4506065f16587815faeff437e30a1f4dd8cda2ccc73be",
+            "hash": "c4a74766d23391c2bd83ff651712093824340b40785852031011e693003f8753",
             "sync_mode": "always"
         },
         {
