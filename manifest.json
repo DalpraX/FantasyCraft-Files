@@ -5,7 +5,7 @@
         "https://www.dropbox.com/scl/fi/bgcv6hbq8ayl0qkgiglzg/modpack.zip?rlkey=n9ktq78lbrgvvh9mbtpbjo5qi&st=m73np96q&e=1&dl=1",
         "https://download1514.mediafire.com/apnabtrblv7g-tfv8B_qHDbUNX3SndruFsgh_kfLKprCPKCeqwpbV0rFoN93wy9mTbXLCruObL0y7JupZg6fq98CexRvZ_XCKNaBOblUD1wlHfFwoUsRujHcSRtVy7n6do7zisuGYcp3a3V-_EKkthQM5mdqyI9HQklpnYhkfUvo-A/vy4illqv8s04yzc/modpack.zip"
     ],
-    "zip_hash": "3e4a05bc4ad798636d38270a767cf6d46a0c972d10276a43b95ac2d075d6e4c8",
+    "zip_hash": "d598707daa8608df8a001911fd75e7e5e3888166bbc64ef3d7503d74a2a322f1",
     "strict_folders": [
         "mods",
         "config",
@@ -436,7 +436,7 @@
         },
         {
             "path": "config/oculus.properties",
-            "hash": "6c131aee7d31070224efa068d1612f0dfa17e6bdd45e6a2c9f777fd35f0b95b7",
+            "hash": "e44aba42094c61c09735b88a382f9ca2941e448c6729c07d4a96c11c8b0c59b8",
             "sync_mode": "always"
         },
         {
@@ -1331,7 +1331,7 @@
         },
         {
             "path": "config/fancymenu/customization/title_screen_layout.txt",
-            "hash": "4dec587c45612c1bd9f1c01eed8805575aca5c3ce3eee4b1427bf8e126e2d4ba",
+            "hash": "7c8c4f8b89b9feb756c57dfd86d5e1772ecee29b8cbaa260740f0a82dfffdcf7",
             "sync_mode": "always"
         },
         {
@@ -1961,7 +1961,7 @@
         },
         {
             "path": "fancymenu_data/last_world.fmdata",
-            "hash": "ec48d2d53bebdffbaaeaa9e36e8ae14d54c0f260fffc72d8298af44b244aa9ad",
+            "hash": "22a19f410ce34d02f5fac5c71510e2369bb3862d10a4396f247c11736e2efc03",
             "sync_mode": "always"
         },
         {
@@ -1971,7 +1971,7 @@
         },
         {
             "path": "fancymenu_data/buddy/buddy_save.json",
-            "hash": "e1291bbc60c0aed6b21e74f14412b08c77b938504d66860b41c29eee8cc23b71",
+            "hash": "051844f72f75e4d4176f36b5fb06e1ab13fd5857720e1233b18cd3fb46ae1279",
             "sync_mode": "always"
         },
         {
@@ -2811,7 +2811,7 @@
         },
         {
             "path": "mods/mcef-cache/LocalPrefs.json",
-            "hash": "21da90aee550be48835708422899de9a0253cabe3f64044b4e2b57e2d912df40",
+            "hash": "0d30564d24388bb35cda2cacb15f1db0ce665f2bd5ffd78a332d7e4af4cb70d2",
             "sync_mode": "always"
         },
         {
@@ -2821,12 +2821,12 @@
         },
         {
             "path": "mods/mcef-cache/LOG",
-            "hash": "bf5f46959e4e8dbe0590cd96619183c9883db63f16aa0e07921cdd2d437f133a",
+            "hash": "97e196e33b4e69ec0d8ada1f7d7db141c5eafb6e7208536fc033fa9b6942a8c0",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/LOG.old",
-            "hash": "5404053798044c8a691d61ed7543c3337fe35b6e39655f6a6d55dbb98171bfe4",
+            "hash": "c139d3bd7811bafd4584f391f73bd3cbded34c1b3ba81cccde92c2b7825845ad",
             "sync_mode": "always"
         },
         {
@@ -2841,12 +2841,12 @@
         },
         {
             "path": "mods/mcef-cache/Cache/Cache_Data/data_0",
-            "hash": "d8252886450417626de7898f8e7b85b366276cd06f9f96f89b9c1afd35ab9128",
+            "hash": "7f4c043acd42a8cef85dc557099c6299f9497ded6aaba2fc58241cff5aa8465d",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/Cache/Cache_Data/data_1",
-            "hash": "abde72102b15f1a8ea289626d6259285542af2ffc058aa6b7db06d4e5f6c0d94",
+            "hash": "b9d2f0310b4102281b7363c336b9c26fac41704661da02c36b086139a3038cb9",
             "sync_mode": "always"
         },
         {
@@ -2856,7 +2856,7 @@
         },
         {
             "path": "mods/mcef-cache/Cache/Cache_Data/data_3",
-            "hash": "66624160f482a8c2498309edc103c02e13d84654324d7d87b957f65542936500",
+            "hash": "d2ed9f139f387f884cb324034aecd8288e7a6683710dd1f73f57a8b74c7e6da0",
             "sync_mode": "always"
         },
         {
@@ -2916,342 +2916,342 @@
         },
         {
             "path": "mods/mcef-cache/Cache/Cache_Data/f_00000c",
-            "hash": "b98e76060db08de11764d8612a7d371215adb726cbd01f9c6e6d771ebe6b6314",
+            "hash": "42d65d98abdd498b4ab6e513047c63e869a9bf0c54f1c0295b9591d202fa64b7",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/Cache/Cache_Data/f_00000d",
-            "hash": "9b574e208080e6931ab446e2133e965296ca03d8645ebbb205582f84f3e3f0c2",
+            "hash": "038c3821f925718b711dd5ff53e7b3255ec46902966dd5b6e9d891020fed5c29",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/Cache/Cache_Data/f_00000e",
-            "hash": "8410341f4b740e87ef0727f59cd8ad04ff4a4fe0cba5d84b3d9404aebc20cc4d",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00000f",
-            "hash": "e87098bf6a64c97b6b6c2549864618721155236837e31f04d6b5b86e2b642fb6",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000010",
-            "hash": "e3b1ae95e0f0e225ddccd4446dece42769e4a451c419c83cf32afeb8f47f9dea",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000011",
-            "hash": "1d15bf8b2748b4e4aa4e74e10cd5e59254cb77915543e0c47bf88041b483029e",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000012",
-            "hash": "26e2d4aa69d2098e7bc1fe01c9f1aa7160e1ba79e06217b4764477ca33e6d3c1",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000013",
-            "hash": "ccdceaffacbbb15179ad9f08e37ac6f8976a724b3c6b92fb5c0ebdc7a14238ed",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000014",
-            "hash": "a71ab54fc035c941e549d0a853f7a9631c39f37854fe8ec2fe11d3d08337080e",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000015",
-            "hash": "5a7f9beff5472f07737e51bfd81602e8b6b15bd7f480c4ed5c3b6594d094ad8d",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000016",
-            "hash": "dc1dfac8a540ef50ac958b8b268172021db45bed53cb694eebffe5aec6739e49",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000017",
-            "hash": "6e12715df64b50d7b17174f75012f2c49964e027759390a1a78e9fbb93919683",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000018",
-            "hash": "44109581179890990d96ac99c94a126451f826df426a1cb63a3811de5576afe2",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000019",
-            "hash": "1d98b342304dda70df198639371e48fe17665a07524737a80f36a634e4877971",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00001a",
-            "hash": "1dca1f93054dae77e394b8169749e746284f0a7f44146aa590dc895f45a32158",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00001b",
-            "hash": "6e6b7527d395ac5da53c32aca294d3def1aa0dbf74d0fe6bbfe3a8c850b76530",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00001c",
-            "hash": "228eff872b6dac1b5c10ce3096751abb5daf5f4d01c4c16778a8d9a999e033e6",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00001d",
-            "hash": "32d6e11cbba6fd20b9c8ee6beff66bdbb208d384da950fb7f7ef574451bab678",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00001e",
-            "hash": "c58adaafc9a7a7089827dfd79a5d3241341e56c72c487b860644be2b0288f7eb",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00001f",
-            "hash": "f11ebdff95b987e1d93cc23881709e4f3a97f83041be0abaa312ab41a151773b",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000020",
-            "hash": "d32dcead959fb08453a28cda7095667285db0a83b1fd5a5bc16b6458e11fb771",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000021",
-            "hash": "e5f06f2ccfd99f2d28f7a081b7acf09bd7619c7d92bff027828ba457d045f39f",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000022",
-            "hash": "f29fea9bb5f88197d00ad427e5ba7a55e3dec936d445327816358dd0a39872ae",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000023",
-            "hash": "a2bde7fc9f16bf06dc6acedc46ea8a038d9e20856d489364e8f09bb0fcd0b67b",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000024",
-            "hash": "6c07a7c1e1fdffe9780d85cfa53665d8c6904b165e694a28d0aafd290b683128",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000025",
-            "hash": "823c40d12129365d5d6d0fc577ef76a1e7b0362120654f36a5de41df0c55a817",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000026",
-            "hash": "4ce402cfa57697b9463b124af16acea7e0f814fd43d749bc5e074ecb61e691a5",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000027",
-            "hash": "85db83aebcbecba29746dc62f120d930468f3825de9f882f8ac067eee82e211f",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000028",
-            "hash": "992c32086e6ca4023cedfb9ee6e616408805d10e013d0865dd0e63fa338d1ffa",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000029",
-            "hash": "3ac6ef5ef930a7959e23450dea6c9d680a4e06e02f778be0957a635a38649f4d",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00002a",
-            "hash": "70643b06f54bab703b6861ba2731b5e28ec6a92fdeef4cb4ef94ccf9cbdb019c",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00002b",
-            "hash": "ae58aaa897e4b04de5fb96c9b2ae4548c4770044b69a8f1cadfa8db237168976",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00002c",
-            "hash": "3ccf944cac105458f3bdca72fe98822fd55db422d6774c56df9b27f959fead96",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00002d",
-            "hash": "dc13d363736763ab78c8b237b1470e8cdd64d5b4d4379ee5f44751b957ad8157",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00002e",
-            "hash": "a42cfc95d15a4489ca59a8a57613ee0a3c7fe7b65fbdaaeeb5207a04feae06cb",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00002f",
-            "hash": "fe831d4f41adf485fe0dc9fac1363eda6173418971c70070d0123d83d2e93003",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000030",
-            "hash": "139de9f442d1fb0418e61d673d8a4e324e8831ef11fb88987a94e575497984b5",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000031",
-            "hash": "71178d694bd594e45ac8d53c80d74440afcd4bbe005fbcc4024d99bf98e7f002",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000032",
-            "hash": "1ff14742c72406218aa5d7a27e92bcf40e8e3fa63981f2143e7744e7e63470b1",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000033",
-            "hash": "61ebbb36c46d5a32017310f04e58bb7f3580cb0e35c5d52fb82a6091a215288a",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000034",
-            "hash": "4bdefe9ffe1b8ca6931dd45477ef91f9ed59b7152a4ae1653c7967207508655d",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000035",
-            "hash": "9d3cf4f36e5a438d1ab6518d406e7a4ef15f329f09ca4f7dd4c3992da6e088b5",
-            "sync_mode": "always"
-        },
-        {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000036",
             "hash": "9192ead866cdb1e7fcd9c4050ad9d1b7ea85273d7b82f8eaad41db7ae0e25621",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000037",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00000f",
             "hash": "cf8f31a4cd6836d7ee09920ab9d37674df250f8d40ad209a974b52e55003f981",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000038",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000010",
             "hash": "bce24823936bfa0f952f660be1b849b9c6eeda690272c5ff4f6a5510591d38b4",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000039",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000011",
             "hash": "7211f0a817863622aa5c2095e4a11766ff6a319b94ce8e7fd1335445350cffae",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00003a",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000012",
             "hash": "02887a04cac820995a3851f5a4cad99ee17b234a19e9c087d5ef2e7cff2739ea",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00003b",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000013",
             "hash": "0a9f0f94a059363639d487be33ec56d2eb505f9ca6ffaa45e1fe2dfc40667dc8",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00003c",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000014",
             "hash": "8ec37a0dcd329d31db0ffe664cb2c7eae3cbd6f7d0ae91cbe8c7d25c48b60305",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00003d",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000015",
             "hash": "907c2192c50c6d30c7515c07d1679819bcfe1192d858422e1a275ed466207584",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00003e",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000016",
+            "hash": "d52cdd85adcc7efbbab07ee02349af13c281b284b4d8099f1a80a4323040312f",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000017",
+            "hash": "42d65d98abdd498b4ab6e513047c63e869a9bf0c54f1c0295b9591d202fa64b7",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000018",
+            "hash": "f1ef96e385cf8015f0edd51dcdbaf84d6de8c85a97c7ae933a01f71ae4eb45f3",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000019",
+            "hash": "9192ead866cdb1e7fcd9c4050ad9d1b7ea85273d7b82f8eaad41db7ae0e25621",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00001a",
+            "hash": "cf8f31a4cd6836d7ee09920ab9d37674df250f8d40ad209a974b52e55003f981",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00001b",
+            "hash": "bce24823936bfa0f952f660be1b849b9c6eeda690272c5ff4f6a5510591d38b4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00001c",
+            "hash": "7211f0a817863622aa5c2095e4a11766ff6a319b94ce8e7fd1335445350cffae",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00001d",
+            "hash": "02887a04cac820995a3851f5a4cad99ee17b234a19e9c087d5ef2e7cff2739ea",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00001e",
+            "hash": "0a9f0f94a059363639d487be33ec56d2eb505f9ca6ffaa45e1fe2dfc40667dc8",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00001f",
+            "hash": "4bdefe9ffe1b8ca6931dd45477ef91f9ed59b7152a4ae1653c7967207508655d",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000020",
+            "hash": "42d65d98abdd498b4ab6e513047c63e869a9bf0c54f1c0295b9591d202fa64b7",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000021",
+            "hash": "9192ead866cdb1e7fcd9c4050ad9d1b7ea85273d7b82f8eaad41db7ae0e25621",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000022",
+            "hash": "cf8f31a4cd6836d7ee09920ab9d37674df250f8d40ad209a974b52e55003f981",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000023",
+            "hash": "bce24823936bfa0f952f660be1b849b9c6eeda690272c5ff4f6a5510591d38b4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000024",
+            "hash": "7211f0a817863622aa5c2095e4a11766ff6a319b94ce8e7fd1335445350cffae",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000025",
+            "hash": "02887a04cac820995a3851f5a4cad99ee17b234a19e9c087d5ef2e7cff2739ea",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000026",
+            "hash": "0a9f0f94a059363639d487be33ec56d2eb505f9ca6ffaa45e1fe2dfc40667dc8",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000027",
+            "hash": "8ec37a0dcd329d31db0ffe664cb2c7eae3cbd6f7d0ae91cbe8c7d25c48b60305",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000028",
+            "hash": "907c2192c50c6d30c7515c07d1679819bcfe1192d858422e1a275ed466207584",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000029",
             "hash": "f8f5e16bc92bca8bfd9f1767d330988729780d88438b72e8a2b67c617a7e66f6",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00003f",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00002a",
             "hash": "b98e76060db08de11764d8612a7d371215adb726cbd01f9c6e6d771ebe6b6314",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000040",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00002b",
             "hash": "9b574e208080e6931ab446e2133e965296ca03d8645ebbb205582f84f3e3f0c2",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000041",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00002c",
             "hash": "8410341f4b740e87ef0727f59cd8ad04ff4a4fe0cba5d84b3d9404aebc20cc4d",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000042",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00002d",
             "hash": "e87098bf6a64c97b6b6c2549864618721155236837e31f04d6b5b86e2b642fb6",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000043",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00002e",
             "hash": "e3b1ae95e0f0e225ddccd4446dece42769e4a451c419c83cf32afeb8f47f9dea",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000044",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00002f",
             "hash": "1d15bf8b2748b4e4aa4e74e10cd5e59254cb77915543e0c47bf88041b483029e",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000045",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000030",
             "hash": "26e2d4aa69d2098e7bc1fe01c9f1aa7160e1ba79e06217b4764477ca33e6d3c1",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000046",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000031",
             "hash": "ccdceaffacbbb15179ad9f08e37ac6f8976a724b3c6b92fb5c0ebdc7a14238ed",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000047",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000032",
             "hash": "a71ab54fc035c941e549d0a853f7a9631c39f37854fe8ec2fe11d3d08337080e",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000048",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000033",
             "hash": "5a7f9beff5472f07737e51bfd81602e8b6b15bd7f480c4ed5c3b6594d094ad8d",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_000049",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000034",
             "hash": "dc1dfac8a540ef50ac958b8b268172021db45bed53cb694eebffe5aec6739e49",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00004a",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000035",
             "hash": "6e12715df64b50d7b17174f75012f2c49964e027759390a1a78e9fbb93919683",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00004b",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000036",
             "hash": "44109581179890990d96ac99c94a126451f826df426a1cb63a3811de5576afe2",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00004c",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000037",
             "hash": "1d98b342304dda70df198639371e48fe17665a07524737a80f36a634e4877971",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00004d",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000038",
             "hash": "1dca1f93054dae77e394b8169749e746284f0a7f44146aa590dc895f45a32158",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00004e",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000039",
             "hash": "6e6b7527d395ac5da53c32aca294d3def1aa0dbf74d0fe6bbfe3a8c850b76530",
             "sync_mode": "always"
         },
         {
-            "path": "mods/mcef-cache/Cache/Cache_Data/f_00004f",
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00003a",
             "hash": "228eff872b6dac1b5c10ce3096751abb5daf5f4d01c4c16778a8d9a999e033e6",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00003b",
+            "hash": "32d6e11cbba6fd20b9c8ee6beff66bdbb208d384da950fb7f7ef574451bab678",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00003c",
+            "hash": "c58adaafc9a7a7089827dfd79a5d3241341e56c72c487b860644be2b0288f7eb",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00003d",
+            "hash": "f11ebdff95b987e1d93cc23881709e4f3a97f83041be0abaa312ab41a151773b",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00003e",
+            "hash": "d32dcead959fb08453a28cda7095667285db0a83b1fd5a5bc16b6458e11fb771",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00003f",
+            "hash": "e5f06f2ccfd99f2d28f7a081b7acf09bd7619c7d92bff027828ba457d045f39f",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000040",
+            "hash": "f29fea9bb5f88197d00ad427e5ba7a55e3dec936d445327816358dd0a39872ae",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000041",
+            "hash": "a2bde7fc9f16bf06dc6acedc46ea8a038d9e20856d489364e8f09bb0fcd0b67b",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000042",
+            "hash": "58feb43f8b1dff8477bdb306013c1a992f31ee58371032aa0a7e47b3c6dcf607",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000043",
+            "hash": "02887a04cac820995a3851f5a4cad99ee17b234a19e9c087d5ef2e7cff2739ea",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000044",
+            "hash": "0a9f0f94a059363639d487be33ec56d2eb505f9ca6ffaa45e1fe2dfc40667dc8",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000045",
+            "hash": "8ec37a0dcd329d31db0ffe664cb2c7eae3cbd6f7d0ae91cbe8c7d25c48b60305",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000046",
+            "hash": "907c2192c50c6d30c7515c07d1679819bcfe1192d858422e1a275ed466207584",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000047",
+            "hash": "f8f5e16bc92bca8bfd9f1767d330988729780d88438b72e8a2b67c617a7e66f6",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000048",
+            "hash": "b98e76060db08de11764d8612a7d371215adb726cbd01f9c6e6d771ebe6b6314",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_000049",
+            "hash": "9b574e208080e6931ab446e2133e965296ca03d8645ebbb205582f84f3e3f0c2",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00004a",
+            "hash": "8410341f4b740e87ef0727f59cd8ad04ff4a4fe0cba5d84b3d9404aebc20cc4d",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00004b",
+            "hash": "e87098bf6a64c97b6b6c2549864618721155236837e31f04d6b5b86e2b642fb6",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00004c",
+            "hash": "e3b1ae95e0f0e225ddccd4446dece42769e4a451c419c83cf32afeb8f47f9dea",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00004d",
+            "hash": "1d15bf8b2748b4e4aa4e74e10cd5e59254cb77915543e0c47bf88041b483029e",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00004e",
+            "hash": "26e2d4aa69d2098e7bc1fe01c9f1aa7160e1ba79e06217b4764477ca33e6d3c1",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-cache/Cache/Cache_Data/f_00004f",
+            "hash": "ebd8796672d7fafc3c58462a0efb459e62cb93990425022f1cffb9d72c966b41",
             "sync_mode": "always"
         },
         {
@@ -4386,7 +4386,7 @@
         },
         {
             "path": "mods/mcef-cache/Cache/Cache_Data/index",
-            "hash": "d6868b69f1b3edd7b3f0155fcd1805602a2b48258bd25ffc76a7ba1f65b3d148",
+            "hash": "cf76e27d76233993ffcffe25e856b5622091cae360bf2683ffe6dd55a79e8996",
             "sync_mode": "always"
         },
         {
@@ -4431,7 +4431,7 @@
         },
         {
             "path": "mods/mcef-cache/DawnCache/index",
-            "hash": "2de2c013fcf43f8c4e653a559ad364b921487bc3eab590824d2ac1e0d43d4e87",
+            "hash": "f68a955f48cab7ae2f23af370b1fa3777c15ad20eaff8d77761b1582631d82cd",
             "sync_mode": "always"
         },
         {
@@ -4456,7 +4456,7 @@
         },
         {
             "path": "mods/mcef-cache/GPUCache/index",
-            "hash": "782fc08b0db4fb71342e020de5a3ac5772b68b0541d37d80959a0f5900b49983",
+            "hash": "74623a15d2ccc4e85cfaa541129a2247ebb77db0da7aa82d5d1673dfd8d2ad3b",
             "sync_mode": "always"
         },
         {
@@ -4476,12 +4476,12 @@
         },
         {
             "path": "mods/mcef-cache/Local Storage/leveldb/LOG",
-            "hash": "8261c16875da69a6acdae530839d42e768cf6c20d8118220b874c72965654734",
+            "hash": "cabe5ef5815c5583fb9834632e20902bb3668ba40502d552c591356ce9d8b053",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/Local Storage/leveldb/LOG.old",
-            "hash": "12bfd5c957715cb20b4d1c3a7c39324ec084ecd3dbb7a55afb285c7e43915619",
+            "hash": "5e52e4f71ab1192075e04e39a966afebda71cf8d4ddf6358655fc4d651809661",
             "sync_mode": "always"
         },
         {
@@ -4526,12 +4526,12 @@
         },
         {
             "path": "mods/mcef-cache/Network/TransportSecurity",
-            "hash": "f107bcc7a52ad58ac4769d10fdfc34bd610933e970147d26fe1d4eb087502137",
+            "hash": "fc3efc93ef60af332a5d5792e843c56d32eafa85a09e5a5ea36a8c91c46d9ba8",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/Session Storage/000003.log",
-            "hash": "dbe76ca76a9d324f6c6b9675d82c94fe48fcdb0fcce6d0406940e82064dd922f",
+            "hash": "744442f0c7f59b2f00a47845cb08ea22597d9ac688d543876ec2bc1b9c7531e8",
             "sync_mode": "always"
         },
         {
@@ -4546,12 +4546,12 @@
         },
         {
             "path": "mods/mcef-cache/Session Storage/LOG",
-            "hash": "8a319dbdda6dfc2e45019c1fff34101d0b8bd8e0f39475ed7d6f45b183b25f00",
+            "hash": "d6fe287175c58d847c939ce7966874b7b845f505e1f8984f66c76096f521563e",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/Session Storage/LOG.old",
-            "hash": "e5acfe9dafb17a84fe751b8c0425cf2d20c4993862f83494237d4997fdbbd560",
+            "hash": "f9504250e0d0dfc1dcada8fbe11c379d36541f9f8b2dcd986d77e7f33711cc8d",
             "sync_mode": "always"
         },
         {
@@ -4561,7 +4561,7 @@
         },
         {
             "path": "mods/mcef-cache/shared_proto_db/000003.log",
-            "hash": "12cff2c1ad4de94bbee0ff974dabd61381c4a331d2b6b55575a6fbdade20bc76",
+            "hash": "e9473f5ddd57710559abfc9713ba3356e526b2e24bd40f475380ee36a5a96e6b",
             "sync_mode": "always"
         },
         {
@@ -4576,12 +4576,12 @@
         },
         {
             "path": "mods/mcef-cache/shared_proto_db/LOG",
-            "hash": "e7f8f13679fffd46b154688c8f134326aba4d49e944064108dd3f989476c3819",
+            "hash": "f4c2031f69943de8baaa0c39cfaa6d0b1ac328d86f89cc43249fecb548e16f4d",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/shared_proto_db/LOG.old",
-            "hash": "909ede9aa099f2a3da4db833fbc5c091d54c0589aeacf0c1fd6edae47acc7a17",
+            "hash": "2ee9703c6647fe8b8093807357f9662b808f9c2bbd1a00be75a8704acc37fc1e",
             "sync_mode": "always"
         },
         {
@@ -4591,7 +4591,7 @@
         },
         {
             "path": "mods/mcef-cache/shared_proto_db/metadata/000003.log",
-            "hash": "835cd8b95da0f22e1dde4d84eaa8a8870f71c04ac393ba685b98c9502ba5e609",
+            "hash": "b25e209ed2997c30afa482bd6012fb73fbd58fde7a01bdb4f4e3b69c9cd6b81d",
             "sync_mode": "always"
         },
         {
@@ -4606,12 +4606,12 @@
         },
         {
             "path": "mods/mcef-cache/shared_proto_db/metadata/LOG",
-            "hash": "acdb72b740904f3bf764c44544081669102be0ac77666199aed38f482d7d6f4f",
+            "hash": "92806b8187c012d8692225290555bf9d8e6605ba1c385d7f68c1e12fdc76625d",
             "sync_mode": "always"
         },
         {
             "path": "mods/mcef-cache/shared_proto_db/metadata/LOG.old",
-            "hash": "7bfeb622e25cb6f2dc93054fce50b71ecdb5778a05d4b49a4f5eae41f41e6204",
+            "hash": "be083b382dea345253289224975141ff9c43ed1fa6c02cb61ea271dc6b5178e2",
             "sync_mode": "always"
         },
         {
@@ -4632,6 +4632,366 @@
         {
             "path": "mods/mcef-cache/VideoDecodeStats/LOG.old",
             "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64.tar.gz.sha256",
+            "hash": "78996b1d5e0a43d0b81182049a238a7dedba2d4e625dd4718790cf22230a2c79",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/chrome_100_percent.pak",
+            "hash": "40df7c1d2867c8b146d58b5ee80783ed36c5a38d410c1c3e55011cf042b58062",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/chrome_200_percent.pak",
+            "hash": "b8b297eeab2e9fe8ecde1e18f1ee6b8c7adb90084bdeb541ad3746defcfd6f07",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/chrome_elf.dll",
+            "hash": "a4234a55b3bf36fec333f4aef1e9baeb5b4f630096c9af83834bd7ff249a7ba5",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/d3dcompiler_47.dll",
+            "hash": "b23e7b820ed5c6ea7dcd77817e2cd79f1cec9561d457172287ee634a8bd658c3",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/icudtl.dat",
+            "hash": "7c40c811d30d459dbf04a04c141b60eb4247cd58a008fb836605317df665748f",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/jcef.dll",
+            "hash": "ff7e27a7eb27532d2fcba87e1278b7432ed696164a5222e5d0fb0c93dd8245b8",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/jcef_helper.exe",
+            "hash": "16d6ed9b3d80703cb8d872f071d7aba3d896892bb0f89898a60f487825671ff2",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/libcef.dll",
+            "hash": "bf939efeb24d668faf844cbd3b5add5efc22878094f045289ffd9d24832b94e8",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/libEGL.dll",
+            "hash": "b2b8ab73dc19e2be1385024f05d354a6df2a63bc2bee53c10931be873fb58808",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/libGLESv2.dll",
+            "hash": "b7b09a04dd2e067c5d2961164898108340b5988bff29b97d4b345de21b86db39",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/resources.pak",
+            "hash": "51ce36475a08eae89d72495d168dcae055828265e7d0457dbe4c8d9100256822",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/snapshot_blob.bin",
+            "hash": "8735c6f11757af9dcc57ad597213350fbd6ca9af24ddf840276645a7f03f3a96",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/v8_context_snapshot.bin",
+            "hash": "3d697a47e4ce23953e25a61fe94072548eeac94bc83ea137b398d6c03989b88a",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/vk_swiftshader.dll",
+            "hash": "411df33830be7e360c55087fd7857c0057f5463a0f355c081de24bae600797cc",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/vk_swiftshader_icd.json",
+            "hash": "32d83ff113fef532a9f97e0d2831f8656628ab1c99e9060f0332b1532839afd9",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/vulkan-1.dll",
+            "hash": "7e1e40286e1114a3459dd44e32954743c96e22546d6decfe0009f8c1e6ec6b58",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/af.pak",
+            "hash": "49ee9689ae39c197c697f3529fbc1448fb279f48d8ad27326b22c2d141791acf",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/am.pak",
+            "hash": "54e5e63f35a448a441eaf5cb2ecb9ab7c80d9c871aa22f93a1264c5400b85ede",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/ar.pak",
+            "hash": "fae4ec9490979b8abc3987050bbf93884751a04b80661541dc89e415a7d3466d",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/bg.pak",
+            "hash": "96a06019adc22247a6fa9629636194c438f5f8770d333e3117c992c0161f942f",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/bn.pak",
+            "hash": "6384e0fb49fabb1575d9411bd6d4551854a059e62604723fa465ef4a9d57fdb4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/ca.pak",
+            "hash": "ef2bfc50b5ab20c7b04f04cb41b519befa1887756e120c1a53d1026d9e15cca1",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/cs.pak",
+            "hash": "008a789ed3295b206d6481390f0430b172cc3986600b24361ab4545c64c90342",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/da.pak",
+            "hash": "56695170e6533d9a33e9f91457716722c62e50a5cceaa9b59ffa7ce25ea3528d",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/de.pak",
+            "hash": "892357f96c90cf61ac039b1ac797f0a7b5111d99a89a291960a0cf508d5594cd",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/el.pak",
+            "hash": "3b757753bc218b52cf4988111e96cad210b62005a2fde19e576dab6787730cea",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/en-GB.pak",
+            "hash": "967d3a816b7e4cdaf93014f2217e901b9f7ad31693b9be4331abacb13e7599b4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/en-US.pak",
+            "hash": "9d0df6a64559ff718c06963f740549ecead271b84cbdcc81c7782e0d0011041e",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/es-419.pak",
+            "hash": "7116b00185b0cf244e36502cf0e2d97d961670783c345e55e3dd23e8b42b3443",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/es.pak",
+            "hash": "bfa86937c5972c1691f96cc15c567a9cd5ae064ea156ace6399a6014f1197cce",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/et.pak",
+            "hash": "bbb447a0598e0db7c6941a67f921c30f3af36c6a9bd5010f4b5fd549a1a47211",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/fa.pak",
+            "hash": "144c2668afbf067ba4e38772abedb1d09c9590b71703fc8f707e7fe2761d64b7",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/fi.pak",
+            "hash": "d3cbba983f7a0f9d4dd3300ff3b64eb79f725840915d66b22412149b262298ea",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/fil.pak",
+            "hash": "766bb6983a0dcd2cee47e1ca9212961c1fdb34143995735fc41701301292c280",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/fr.pak",
+            "hash": "115b6c73eab0f8f3d7895c610bd040bb30500731c872f139a1350c51b0a670b5",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/gu.pak",
+            "hash": "c0d7e010732c14e08ef3c57e68ced0cf33b8731b165c5cad4c2baf12b6524896",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/he.pak",
+            "hash": "a2d2d4fdd6e79f2b0ea2255dceb728d8826f3ba61cfc3563901eb5354e8ff2c6",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/hi.pak",
+            "hash": "41b9427a2af857c37eba99e692e14f583d6fbc8c59c4f2c8421b4b2fb2d6a3b3",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/hr.pak",
+            "hash": "abfec4e2f0a6622a1f0d463179f80fdb6ab043f6a643d3d337c5e8270f724924",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/hu.pak",
+            "hash": "40cdb1859902bf5238979485be2ea7f8d55a4fd8dedf9b2fc2d4f83e17221067",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/id.pak",
+            "hash": "1094cc251555267cbe073c9f5052c9eb39b6740b35c4caf2f5d421f84d50b26c",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/it.pak",
+            "hash": "53e1f9f42b5eb37b6f095725908c3bc30cf016de452e0c6d42f541af47289aa2",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/ja.pak",
+            "hash": "2617436210a9413af74020a6613b5155d8bd7384eff4d12c1b28e87bd666d293",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/kn.pak",
+            "hash": "6d71bc596d97c6182748e71b88986128e91b4c6cea4ef16947f3066390e08e43",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/ko.pak",
+            "hash": "63299e27e185e835c5ce918a604d60bdd747296ce613f70718573e445817e614",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/lt.pak",
+            "hash": "58a0f8f1d96343911be67c16081af1378630d7d487115fb7348ec4096e7547ba",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/lv.pak",
+            "hash": "129cb83126365a309cd305518b4c3ed4eb74cdbdb4c0bb89c33c1858d17c850a",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/ml.pak",
+            "hash": "2ec3b536e069924184b589a6e2a05254253be8384ca38eb3d5f946505a57e653",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/mr.pak",
+            "hash": "2fd4236d1e649f5794d9300a15e772a8e5a1da7291c235f59aec1be054939866",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/ms.pak",
+            "hash": "fc861778d4fd42f1ba9f81a02b4a8063a58f57c2a0dcf01a71ff30bf0af61e17",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/nb.pak",
+            "hash": "03aa805ef0973b3c417b2213588a06a9b684d6b5db052607f2e78ccd38994c95",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/nl.pak",
+            "hash": "abb41d4241d0e54c961139c3e989141b2f8b3a0cbc3ada64b0d409a9d98f4e6c",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/pl.pak",
+            "hash": "1ae500ab866978030c1d02a91ffe7e848a2214dbc5806719b10597dd8a63f238",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/pt-BR.pak",
+            "hash": "9d0f94632c2550f33d8e2f0e8e03e118d93d15b3ad105fc76d3549f915a185d2",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/pt-PT.pak",
+            "hash": "128b4219b105c019961e1dccbee09dd6f1a5b39f5034c949185bb2e3fc8dac76",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/ro.pak",
+            "hash": "f96dec63b4cea5c4fee132214be70057dabdc3b609147548b0b27a4851490a71",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/ru.pak",
+            "hash": "0b767cd48eb3515e2302b239d0d24bb1550e78b489c1fba0756d0a5effb80729",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/sk.pak",
+            "hash": "2609317a4008bb35b849a65b075ec88db61ecf898bb53c955d5cbc4c6a0e8e5a",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/sl.pak",
+            "hash": "5dec2eca312623b238fad5cbff8b7560c119b51dfb328371fa40552505342d08",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/sr.pak",
+            "hash": "5461e164a9756f9a422052fdacf5863710eb9d37506894afb0218ab098cb7ba6",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/sv.pak",
+            "hash": "1f72dc1581a9a04a3300c9f583551de4e83c8b196830e56a0673fdf015a55d4c",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/sw.pak",
+            "hash": "2349f06c82be23d49a61d13e8cbff5ac08e643b39d9b484bea96bfa9f5dc7636",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/ta.pak",
+            "hash": "0fa68fd86b5926de87ea05c001130dcbb5bc3f548417a78a365a0d6dc3572fb4",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/te.pak",
+            "hash": "5ee9173d3d87a94ad855faf344ac6b85630e6b36bf97c6376835c7b6da32ff20",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/th.pak",
+            "hash": "5b20f23423149b45844045826661b10d3d4060f3a3d26754f6a844c25ab87210",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/tr.pak",
+            "hash": "0148b2081f467d2dac6da35b723bae7b8d400fd851629c48ed402fe260275bb5",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/uk.pak",
+            "hash": "511964eb7ea5a93830dd88a64a342a6334258faf504039de98a3135d37b3650c",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/ur.pak",
+            "hash": "df6e8ed8fad649f49a565bd56989eee51bf1e3a78fca8d45f6faaf48f31f8139",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/vi.pak",
+            "hash": "f5f898e06b0b22f5d00c647941f400c2c7d53ca772b05cd157619d6cf7e0bb52",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/zh-CN.pak",
+            "hash": "3a474f2296e7c950d934a7b0732b9fdd25d51c7cb0b591d753d8326ff7db8a17",
+            "sync_mode": "always"
+        },
+        {
+            "path": "mods/mcef-libraries/windows_amd64/locales/zh-TW.pak",
+            "hash": "f94244ccc56b29ac25d5ec4eba1990c113a3e9ffe02aa9ee83598872e6389cd1",
             "sync_mode": "always"
         },
         {
@@ -5031,7 +5391,7 @@
         },
         {
             "path": "shaderpacks/_0EUPHORIA_PATCHES_ERROR_LOGS.txt",
-            "hash": "c4a74766d23391c2bd83ff651712093824340b40785852031011e693003f8753",
+            "hash": "8d8972c32df86ab42682f92b7f5faa50f6cf034417ece5e943cfb9874028995f",
             "sync_mode": "always"
         },
         {
